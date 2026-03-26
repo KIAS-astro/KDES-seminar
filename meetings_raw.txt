@@ -1,0 +1,4382 @@
+=============================================
+<< KIAS Dark Energy Science Group Meeting 217th >>
+2026. 3. 9 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.
+us/j/4316792441 )
+
+
+1. Distributions of Morphology and Star Formation Activity in High-redshift
+Galaxies: A Comparative Analysis of JWST Observations and HR5
+Simulations (Jeong
+Hwan Lee, Seoul Nat'l Univ.)
+
+Abstract: Recently, JWST enables detailed investigations of high-redshift
+galaxies with its unprecedented imaging sensitivity and spatial resolution.
+These observations provide a great opportunity to test whether the
+properties of early galaxies are consistent with predictions from
+cosmological simulations. Lee, J. H., et al. (2024) analyzed the
+morphological distributions of ~19,000 high-redshift galaxies within six
+JWST fields (~0.1 deg^2 in total) and reported that galaxies at z>4
+predominantly exhibit disk-like morphologies, in good agreement with the
+HR5 simulation results (Park, C. et al. 2022). As an extension of this
+previous work, we perform a comprehensive comparison of high-redshift
+galaxy properties, including their morphology, star formation activity, and
+environmental properties, using wider JWST fields and the HR5 simulation.
+Our analysis sample incorporates the COSMOS-Web field and multiple DAWN
+archive fields (GOODS-N, GOODS-S, PRIMER-UDS-N, PRIMER-UDS-S, including
+~200,000 galaxies within ~0.62 deg^2. In particular, the abundance of
+quiescent galaxies at z=3-6 is an intriguing issue in recent JWST studies,
+as the observed number densities are significantly higher than the results
+from previous simulations. This discrepancy implies that star formation
+activity in high-redshift galaxies may be quenched much earlier than
+expected, posing a challenge to the current galaxy formation and evolution
+scenarios. We conduct a comparative analysis of the number densities of
+high-redshift quiescent galaxies, using consistent criteria for quiescence
+definition based on the star formation main sequence in each redshift bin.
+Our results showed that while HR5 successfully reproduces the observed
+galaxy morphologies, it substantially underestimates the number density of
+quiescent galaxies. This comparison highlights the successes and
+limitations of current cosmological simulations in reproducing the observed
+properties of high-redshift galaxies.
+
+
+2. Numerical Recipes for Star Formation in Large-volume Cosmological
+Simulations (Jeong-Gyu Kim, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 216th >>
+2026. 2. 23 at 14:30  Monday / *#8101* or Zoom  ( https://zoom.
+us/j/4316792441 )
+
+
+1. ARCHITECTS: The CGM as a window into stellar processes and galaxy
+simulations limits (Maxime Rey, Yonsei Univ.)
+
+Abstract: The study of galaxy formation and evolution has progressed
+significantly in recent decades, with numerical simulations producing
+galaxies matching observed properties. However, the inner workings of the
+feedback processes that regulate the growth of galaxies are not fully
+understood. To address this, a new generation of high-resolution
+simulations has been developed, using subgrid models to describe unresolved
+phenomena at the resolution scale. While these simulations can produce
+galaxies comparable to observations, there is a degeneracy between subgrid
+models which can only be lifted by observables beyond galactic properties,
+such as the CGM. In this talk, I will introduce ARCHITECTS, a series of
+zoom-in cosmological simulations of the same galaxy run with different
+subgrid models. I will discuss how these models influence the CGM and
+outline the current challenges faced by both simulations and observations
+in this field.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 215th >>
+2026. 2. 9 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.
+us/j/4316792441 )
+
+
+1. Formation of Population III Stars in X-ray Radiation Backgrounds (Jongwon
+Park, Yonsei Univ.)
+
+Abstract: X-rays in the early Universe play a critical role in the
+formation of metal-free Population III (Pop III) stars. They not only heat
+the intergalactic medium but also ionize it, thereby enhancing gas-phase
+molecular hydrogen formation, which is the primary coolant of metal-free
+gas. In this talk, I will present results from our numerical simulations
+and discuss how X-ray radiation backgrounds affect (1) the initial mass
+function of Pop III stars and (2) the conditions required for their
+formation. Under X-ray irradiation, Pop III stars tend to be less massive
+and show reduced multiplicity. In addition, a moderate X-ray background
+enhances Pop III star formation, increasing the number of Pop III–forming
+halos per comoving Mpc/h³. Finally, I will discuss the implications of
+X-rays for the formation of the first galaxies.
+
+
+2. A Method for Identifying Galaxy Protoclusters: From Simulations Toward
+Observations (Martha Margarita López Gutiérrez, KIAS)
+
+Abstract: Observations of the large-scale structure and the spatial
+distribution of galaxies in the Universe indicate that galaxies are mainly
+located in the densest regions, such as galaxy clusters. These systems are
+crucial for investigating the role of environment in galaxy evolution at
+different epochs. In the early Universe, the progenitors of galaxy clusters
+are protoclusters. Therefore, the search for and identification of
+protoclusters is a way to investigate the formation and assembly of
+clusters. Using lightcone data from the Horizon Run 5 (HR5) simulation, we
+search for spherical regions that are protocluster candidates and will
+collapse into clusters by z=0. The HR5 simulation covers a wide volume on
+Gpc scales, with spatial resolution down to 1 kpc, allowing us to
+investigate the properties of protoclusters across different scales. The
+protocluster identification method has been tested using snapshot data and
+is now applied to lightcone data from HR5, with future applications to
+observations such as Rubin LSST.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 214th >>
+2026.01.12 at *14:30*  Monday / *#8101* or Zoom  ( https://zoom.
+us/j/4316792441 )
+
+1. From Kinematic Scaling Relations to Pure Disk Galaxies: Insights from
+SDSS-MaNGA and Rubin LSST (Preetish Mishra, KIAS)
+2. Mapping Tomographic Alcock–Paczyński Constraints onto Quintessence Dark
+Energy Models (Zahra Davari, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 213th >>
+2025.12.23 at 14:30  Tuesday / *#1424* or Zoom  ( https://zoom.
+us/j/4316792441 )
+
+
+1. The Regulation of Galaxy Ecosystems in the Local Universe: Star
+Formation, ISM, and Quenching (Chengpeng Zhang, Yonsei Univ.)
+
+Abstract: Galaxies in the local universe can be viewed as complex
+ecosystems where energy flows and matter cycles are regulated through
+internal processes and environmental effects. Investigating the ISM, star
+formation, and quenching mechanisms is essential for a comprehensive
+understanding of the regulation and evolution of galaxy ecosystems. In this
+talk, I will highlight our statistical results derived from extensive
+multi-wavelength surveys of local galaxies. Our analysis reveals that
+central disk galaxies with star formation rates significantly below the
+star-forming main sequence unexpectedly possess HI gas reservoirs
+comparable to those of star-forming galaxies, but exhibit significantly
+lower molecular gas content and star formation efficiency. We further
+demonstrate that quenching in these central disk galaxies is closely linked
+to bulge growth, bar-induced activities, and feedback from low-luminosity
+AGN. These results lead to a coherent picture of how internal “mass
+quenching” operates. Additionally, we find that the residual HI gas content
+provides a robust diagnostic for distinguishing between internal-driven and
+environmentally-driven quenching channels in satellite galaxies. Finally, I
+will present our latest insights into the star formation law, derived from
+studies of dust properties of the local galaxy population.
+
+
+2. What do cosmological observations tell us about the very early universe?
+(Suvedha Naik, KIAS)
+
+Abstract: Inflation provides a compelling framework for the early Universe,
+involving physics at extremely high energy scales that often require
+extensions beyond the standard model of particle physics. Such models can
+leave distinct imprints on cosmological observables, making the early
+Universe a powerful laboratory for probing fundamental physics. In this
+talk, I will briefly review observational constraints on inflationary
+models, with particular emphasis on the Cosmic Microwave Background. I will
+then focus on my recent work exploring the redshifted 21 cm signal from
+neutral hydrogen at high redshifts. The primary goal of this work is to
+demonstrate how upcoming 21 cm observations can provide complementary and
+powerful constraints on inflationary physics beyond the CMB.
+
+
+3. Identification of Galaxy Protoclusters Using HR5 Lightcone Data (Martha
+Margarita López Gutiérrez, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 212th >>
+2025.11.24 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.
+us/j/4316792441 )
+
+
+1. CMB polarization: the status update (Radek Stompor, Astroparticule et
+Cosmologie, Paris, France)
+
+Abstract: I will describe the current status of the CMB polarisation field,
+including the impact and the aftermath of the CMB-S4 cancellation. I will
+overview the science goals as defined for on-going and future efforts,
+major challenges to reaching them, and new technologies devised for
+overcoming those. I will conclude with an outlook for the future.
+
+
+2. Prospects for Probe Combination in Cosmology: CMB and LSS (Carlo
+Baccigalupi, SISSA, Trieste, Italy)
+
+Abstract: We briefly describe the relevance of combining the datasets from
+operating and future CMB and LSS probes, for addressing the open issues in
+Cosmology as outlined in the talk by Radek Stompor. We review the recent
+results along these lines, in terms of cross-correlation and combination,
+and the future challenges towards the next decade.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 211th>>
+2025. 11.04 at 2:3*0 pm* Tuesday / *#8101* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Spin of galaxies in HR5 (Jie Li, KIAS)
+
+2. Strong progenitor age bias in supernova cosmology: Alignment with DESI
+BAO and signs of a non-accelerating universe (Young-Wook Lee, Yonsei Univ.)
+
+Abstract: Supernova (SN) cosmology is based on the key assumption that the
+luminosity standardization process of Type Ia SNe remains invariant with
+progenitor age. However, direct and extensive age measurements of SN host
+galaxies reveal a significant (5.5 σ) correlation between standardized SN
+magnitude and progenitor age, which is expected to introduce a serious
+systematic bias with redshift in SN cosmology. This systematic bias is
+largely uncorrected by the commonly used mass-step correction, as
+progenitor age and host galaxy mass evolve very differently with redshift.
+After correcting for this age bias as a function of redshift, the SN
+dataset aligns more closely with the wowaCDM model recently suggested by
+the DESI BAO project from a combined analysis using only BAO and CMB data.
+This result is further supported by an evolution-free test that uses only
+SNe from young, coeval host galaxies across the full redshift range. When
+the three cosmological probes (SNe, BAO, and CMB) are combined, we find a
+significantly stronger (> 9 σ) tension with the LCDM model than that
+reported in the DESI papers, suggesting a time-varying dark energy equation
+of state in a currently non-accelerating universe.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 210th>>
+2025. 10.27 at 2:3*0 pm* Monday / *#8101* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Morphological complexity of NGC 628  - a pilot study on classifying
+complexity of galaxies (Pravabati Chingangbam, IIA)
+
+2. Introduction to the KLST and the Hubble Depth Survey (Stephen Appleby,
+KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 209th>>
+2025. 10.20 at 2:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. From Subgrid Physics to Cosmology: Modelling Galaxy Formation Through
+Simulations (Boon Kiat Oh, KIAS)
+
+Abstract: Simulation is a powerful tool that plays a pivotal role at the
+intersection of computational astrophysics, galaxy formation, and
+cosmology. Because the physical processes involved span a vast range of
+spatial and temporal scales, subgrid models serve as essential bridges for
+phenomena that lie below the resolution limits of current simulations.
+These models critically shape the predictive power of simulations and our
+understanding of the Universe.
+In this talk, I will present strategies for calibrating subgrid models to
+reproduce a realistic Universe and examine how different model choices
+influence the properties of simulated galaxies. I will also discuss how
+simulations can be used both to interpret observations and to propose new
+mechanisms for the formation and evolution of galaxies. Finally, I will
+explore how pushing simulations to their limits can offer meaningful
+constraints on cosmology.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 208th>>
+2025. 8.25 at 1:3*0 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Constraining Cosmological Parameters and Addressing Tensions with
+Dynamical Dark Energy (Trupti Patil, KIAS)
+
+- Abstract: The standard model of cosmology, ΛCDM, has been a fundamental
+framework for understanding the universe from a theoretical perspective and
+for explaining a wide range of astrophysical and cosmological observations.
+Nonetheless, the increasing amount of observational data have given rise to
+the era of precision cosmology, revealing discrepancies in parameter values
+across different observables and experiments, challenging the ΛCDM’s
+capacity to comprehensively elucidate the universe’s structure and
+evolution. To address these pressing gaps, I focus on studying the
+observational signatures of different dark energy frameworks, with an
+emphasis on interacting dark sector models. I test the capabilities of
+interacting dark energy as an alternative framework to tackle significant
+issues such as the Hubble constant (H0) tension and the S8 parameter
+tension in cosmology. In this talk, I will discuss the development of the
+background and perturbation evolution equations for an interaction model of
+dark matter and quintessence dark energy. Further, I will talk about the
+data analysis and evaluation of the model using observations from various
+sources like CMB from Planck2018, BAO from several galaxy surveys, SN-Ia
+from Pantheon Plus, Masers galaxy samples, cosmic chronometers (CC), growth
+rate (fσ8) data, and H0 measurements from SH0ES study and strong lensing
+time delay (SLTD). Due to the uncertainty involved in the dark energy
+physics and in the observational measurements, our results demonstrates
+that the data constrains H0 towards Planck CMB+ΛCDM results when SH0ES H0
+is excluded and it shifts the H0 towards results with <1σ consistency when
+H0 from SH0ES is included. Additionally, by freely evolving the interaction
+parameter, the analysis predicted that while the interaction remains small,
+it is not disfavoured by the data at late times. These results found to be
+more robust in tightening constraints on H0, S8, and dark matter density
+parameter (ΩDM) together at 68% confidence, and justify the reduced
+uncertainty and hence the parameter space. Next, I will discuss the coupled
+quintessence model within the framework of curved spatial geometry
+(Coupled+ΩK model) and examine the inconsistencies in spatial curvature and
+their implications for the H0 and S8 tensions. The obtained results provide
+evidence for an open universe in the Coupled+ΩK model. I will delve deeper
+into how these findings within the Coupled+ΩK picture suggest that relaxing
+the flatness assumption in coupled dark sector models leads to more precise
+constraints on H0 and S8. In the end, I will shed light on the ongoing
+research with DESI data.
+
+
+2. Circumgalactic Medium at High Redshift: Connecting Cosmological
+Filaments with Central Galaxies (Da Bi, KIAS)
+- Abstract:   We use high-resolution zoom-in cosmological simulations to
+study the evolution of circumgalactic medium (CGM) at high redshifts.
+Filamentary and diffuse accretion in conjunction with stellar and galactic
+outflows have been analyzed for central galaxies in the similar mass DM
+halos, log M/Mo ~ 10.75, at the final z=6, 4, and 2. Two feedback
+mechanisms, steady and variable winds, have been implemented in high and
+low-density environments. We focused on the evolution of baryonic
+filamentary and diffuse accretion processes within few virial radii.
+Specifically,
+we have addressed the developing turbulence and ablation of penetrating
+streamers, and their interactions with the galactic outflows, thus
+determinig the kinematic and thermodynamic properties of the CGM between
+the central galaxy and the backsplah radii. In addition, we have
+post-processed our galaxy sample with a radiative transfer scheme to obtain
+their observational properties, for the future observations with the JWST.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 207th>>
+2025. 8.4 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Relativistic fingerprints in asymmetric galaxy clustering: detecting
+gravitational redshift on cosmological scales (Atsushi Taruya, Yukawa
+Institute)
+
+- Abstract: The observed large-scale structure, as traced by galaxy
+redshift surveys, appears distorted due to the fact that our observations
+are based on light. While the dominant contribution comes from the Doppler
+effect caused by galaxy peculiar velocities, subdominant relativistic
+effects can also leave observable imprints. In this talk, we explore the
+detectability of such effects in upcoming/ongoing galaxy surveys, and show
+that gravitational redshift effect can be detected with high statistical
+significance.
+
+
+2. Dynamical Heating by Superbubbles and the Cusp-Core Transformation (Eunhee
+Ko, IAP)
+- Abstract: Recent JWST observations have revealed superbubbles
+(SBs)—cavity-shell structures distributed across the galactic disk—formed
+by successive supernova explosions. The potential fluctuations generated by
+SBs can dynamically heat galactic systems. Using the orbit-averaged
+Fokker-Planck equation, we investigate the role of SB-driven stochastic
+heating in the context of cusp-core transformation. This formalism
+describes the cumulative impact of weak, local encounters induced by
+stochastic noise sources. By modeling the expansion and collapse of SBs,
+along with their inhomogeneous spatial distribution, we derive diffusion
+coefficients linked to the power spectrum of SB-induced fluctuations.
+Furthermore, we find simple analytic scaling relations that provide an
+intuitive understanding of how diffusion efficiency depends on noise source
+and system parameters.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 206th>>
+2025. 7.7 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Multi-dimensional classification of dynamical state of galaxy clusters
+using GMM (Hyowon Kim, Univ. Tecnica Federico Santa Maria)
+
+
+2. Large-scale structure cosmology with the Rubin Observatory:
+Opportunities and Systematics (Chandra Shekhar Saraf, KASI)
+
+Abstract: The Vera C. Rubin Observatory’s Legacy Survey of Space and Time
+(LSST) is poised to revolutionise our understanding of the Universe.The
+first set of images from Rubin highlight its performance and promise.
+With its unprecedented depth, area, and cadence, LSST will deliver a
+ten-year imaging survey of roughly 20 billion galaxies and about 10 million
+supernovae, offering transformative potential for cosmology.
+In this talk, I will discuss the role LSST will play to address the S8
+tension. I will present some forecasts based on tomographic
+cross-correlation measurements and discuss how the redshift bin mismatch of
+galaxies can alter our inferences on the S8 tension.
+The second part of the talk will be on prospects for probing primordial
+physics with joint LSST and CMB Stage-4 analyses, focusing on how LSST can
+aid in delensing the CMB to improve constraints on the tensor-to-scalar
+ratio.
+Together, these efforts highlight the critical role LSST will play in the
+next generation of cosmological discoveries.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 205th>>
+2025. 6.23 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Om diagnostics with Gaussian process regression (Seung-gyu Hwang, Sejong
+Univ.)
+
+Abstract: The Om diagnostics, derived from the Hubble parameter and
+distance measurements directly obtained from observational data, serve as a
+null test for the flat ΛCDM model. To perform a statistically robust
+analysis of the Om diagnostics, we generate DESI-like mock data based on
+various dark energy models, consisting of joint catalogs of both the Hubble
+parameter and the transverse comoving distance. We then apply Gaussian
+Process Regression (GPR) to analyze the Om diagnostics, with a detailed
+examination of the GPR methodology. Our results demonstrate that the
+expansion history and Om diagnostics can be accurately reconstructed
+regardless of the fiducial dark energy model. We also highlight the
+significant impact of the input mean function, an often overlooked factor
+in many GPR analyses.
+
+2. Local Patch Analysis of ACT DR6 Convergence Map Using Morphological
+Statistics (Masroor Bashir, IIAP)
+
+Abstract: We carry out a comprehensive hierarchical multi-scale
+morphological analysis to search for anomalous behaviour in the large-scale
+matter distribution using the convergence map provided by the
+Atacama Cosmology Telescope Data Release 6. We use a suite of
+morphological statistics consisting of Minkowski functionals, contour
+Minkowski tensor, and Betti numbers for the analysis, and compute
+their deviations from the ensemble expectations and median values
+obtained from isotropic ΛCDM simulations provided by ACT. To assess
+the statistical significance of these deviations, we devise a
+general methodology based on the persistence of the deviations
+across threshold ranges and spatial resolutions, while taking into
+account correlations among the statistics. From the analysis of the
+full dataset and hemispherical regions, we find consistency with
+isotropic ΛCDM simulations provided by ACT. Since deviations in smaller
+sky regions tend to get washed out when averaged over larger regions,
+we further analyze smaller sky patches. This localized analysis
+reveals some patches that exhibit statistically significant deviations
+which we refer to as ‘anomalous’. We find that near the CMB cold spot,
+both the positive and negative density fluctuations are anomalous, at
+99% CL and 95% CL respectively. This region also encompasses an
+anomalous southern spot previously identified in Planck CMB temperature
+data. We also carry out a comparison of anomalous patches identified here
+for ACT data with a previous analysis of the convergence map from
+Planck. We do not find common patches between the two datasets, which
+suggests that the anomalous behavior of the Planck data arises from noise
+in the map. Further investigation of the atypical patches using large-scale
+structure surveys is warranted to determine their physical origin.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 204th>>
+2025. 6.9 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Alcock - Paczynski Test and Late Dark Energy (Zahra Davari, KIAS)
+
+
+2. Structure and Dynamics of Density-bounded H II Regions (Jeong-Gyu Kim,
+KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 203rd>>
+2025. 5.26 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Redshift evolution of the intrinsic alignments of galaxies and subhalos in
+Horizon Run 5 simulation (Sanghyeon Han, SNU)
+
+Abstract:
+
+The shape and spin of galaxies are often aligned with specific orientations
+rather than being random because of the influence of the surrounding
+large-scale structure in the universe. This phenomenon, known as the
+intrinsic alignment (IA) of galaxies, is closely related to galaxy
+formation and the matter distribution in the universe. Previous studies
+have shown that the amplitude of the IA depends on galaxy properties such
+as color and luminosity. Understanding its redshift evolution is important,
+especially as recent observations span a wide range of redshifts, which
+requires a model for redshift-dependent bias to weak lensing. In this talk,
+I will present the redshift evolution of the IA of galaxies and subhalos with
+the large-scale structure using cosmological hydrodynamical simulation,
+Horizon Run 5. I will also compare our findings with those from previous
+studies.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 202nd>>
+2025. 4.28 at 1:3*0 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Tracing the Connection Between Stellar Mass, Size, and Total Matter in
+Galaxies (Preetish Mishra, KIAS)
+
+
+2. TBA (Priya Goyal, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 201st>>
+2025. 4.7 at 1:3*0 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Distinguishing Between Warm and Cold Dark Matter with Lunar 21cm
+Experiments (Hyunbae Park, The University of Tsukuba)
+
+Abstract:
+
+The Universe went through an early period known as the Dark Ages, during
+which the primeval density fluctuations left over from the Big Bang grew to
+form the first luminous objects. The 21-cm line of neutral hydrogen is the
+most promising probe of these epochs, driving extensive observational
+efforts.  We combine hydrodynamical simulations with a large-scale grid to
+precisely calculate the impact of nonlinear structure formation on the mean
+21-cm intensity during the Dark Ages and early Cosmic Dawn. Our results
+reveal a potential opportunity to probe the properties of dark matter in a
+new regime, corresponding to a warm dark matter masses around 7 keV and
+fuzzy dark matter masses around 2×10^-20 eV. This effect can, in principle,
+be detected unambiguously with future lunar experiments.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 200th>>
+2025. 3.11 at 1:3*0 pm* Tuesday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. The Co-Evolution of Wind Blown Bubbles and Photo-Ionized Gas (Lachlan
+Lancaster, Columbia University)
+
+Abstract: Feedback from massive stars is the main regulator of star
+formation in giant molecular clouds (GMCs) where all star formation is
+observed to occur. Through their powerful radiation fields, these stars act
+to disperse the clouds that made them in multiple ways. Two of the most
+powerful mechanisms are bubbles blown by the the shocked gas created by
+winds from these stars and the over-pressurized, ionized gas created by the
+stars' hard ionizing spectra. In this talk I will review how these two
+mechanisms impact one another and physical principles for how to quantify
+their relative importance. I will show that, for parameters relevant to
+Milky-Way like GMCs and dense, low-metallicity environments as may be
+present in the high-redshift universe, both mechanisms are of nearly equal
+importance. To better understand this scenario, I develop a semi-analytic
+"Co-Evolution Model" for the evolution of both feedback mechanisms together
+and test the model against 3D Radiation Magneto-Hydrodynamic simulations. I
+will review possible improvements to the model and how it could potentially
+be used for inference based on observations of star-formation in the nearby
+and distant universe.
+
+
+2.  Probing Cold Gas around Galaxies through the Mg II Resonance Doublet
+(Seok-Jun Chang, MPA)
+
+Abstract: The structure and kinematics of the gas around and in galaxies
+are crucial for understanding the multiphase flows within the galactic
+ecosystem and, thus, galaxy evolution and star formation. Recent
+advancements in instruments and techniques offer a new perspective on
+circumgalactic gas flows through emission lines such as Hydrogen Lyman-α
+and resonance lines of metals (e.g., Mg II, C IV, O VI, and N V). In
+particular, the Mg II λλ2796, 2803 doublet has emerged as a promising
+tracer of cold gas at T ~ 10^4 K. To decode the message carried by the Mg
+II doublet emission, we developed a 3D Monte-Carlo radiative transfer code
+‘RT-scat’. In this talk, I will present simulated results from ‘RT-scat’,
+demonstrating how Mg II lines form in various environments, including
+inflowing/outflowing, smooth/clumpy, and dusty gas. In particular, I will
+also highlight how the MgII doublet line ratio can serve as a potential
+indicator of LyC escape. Furthermore, I will introduce our new radiative
+transfer modeling of Mg II emission halos around star-forming galaxies at z
+~ 1 from the MAGG and MUDF survey. Our results indicate the presence of
+slowly moving or outflowing cold gas and reveal strong anisotropy in its
+distribution. If time allows, I will also discuss other metal resonance
+lines as tracers of multiphase gas.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 199th>>
+2025. 2. 27 at 1:3*0 pm* Thursday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Central Structures of AGNs Inferred from Multiwavelength AGN Variability
+(Minjin Kim, KNU)
+
+Abstract: Active Galactic Nuclei (AGNs) exhibit complex central structures
+that can be explored through their variability across multiple wavelengths.
+In this talk, I will present our current understanding of AGN central
+structures, focusing on the variability characteristics of nearby AGNs from
+ultraviolet to mid-infrared wavelengths and their implications for
+revealing the physical properties of accretion disks and dusty tori.
+Finally, I will provide a brief introduction to the SPHEREx mission, an
+all-sky spectroscopic survey in the near-infrared, and discuss its
+potential contributions to advancing our knowledge of AGN physics.
+
+
+2. Impact of bars on star-formation (Taehyun Kim, KNU)
+
+Abstract: Bars are commonly observed in the local Universe. As
+non-axisymmetric features, bars drive gas inflow toward the central regions
+of galaxies. Numerical simulations suggest that shocks and shear occur along
+the bar dust lanes as the gas flows inward. These shocks and shear can
+influence star formation (SF) and alter the gas properties. In this talk, I
+will present a method for identifying bar-driven shocks and shear using
+observational datasets from the PHANGS-MUSE and PHANGS-ALMA surveys, which
+provide unprecedented detail in studying bar kinematics. I will demonstrate
+how we reached the conclusion that SF is suppressed in regions where
+bar-driven shear and shocks are strong. Additionally, I will discuss the
+implications of our findings for future studies examining the impact of
+bars on SF. Finally, I will share a serendipitous discovery of HII regions
+that are expanding or moving relative to their surroundings.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 198th>>
+2025. 2. 17 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Interacting Dark Sector in Flat and Non-flat Space-time Background (Trupti
+Patil, IISER Bhopal)
+
+Abstract: The standard model of cosmology, ΛCDM, has been a fundamental
+framework for understanding the universe from a theoretical perspective and
+for explaining a wide range of astrophysical and cosmological observations.
+Nonetheless, the increasing amount of observational data have given rise to
+the era of precision cosmology, revealing discrepancies in parameter values
+across different observables and experiments, challenging the ΛCDM’s
+capacity to comprehensively elucidate the universe’s structure and
+evolution. To address these pressing gaps, I focus on studying the
+observational
+signatures of various dark energy frameworks, with a primary emphasis on
+investigating interacting dark sector models and exploring alternatives to
+the standard cosmological model. I test their capabilities in an attempt -
+to tackle significant issues such as the cosmological coincidence problem,
+the Hubble constant (H0) tension and the S8 parameter tension related to
+matter structure growth, combining theoretical and observational
+approaches. In this talk, I will discuss about the observational data
+analysis of an interaction model of dark matter and quintessence dark
+energy [1]. I evaluated this model using cosmological observations from various
+sources like the latest observational data like CMB from Planck2018, BAO
+from several galaxy surveys, SN-Ia, Masers galaxy samples, cosmic
+chronometers (CC), growth rate (fσ8) data, and H0 measurements from SH0ES
+study and strong lensing time delay (SLTD). Due to the uncertainty involved
+in the dark energy physics and in the observational measurements, we found
+that the data constrains H0 towards Planck CMB+ΛCDM results [3] when SH0ES
+H0 is excluded and it shifts the H0 towards [4] results with <1σ
+consistency when H0 from SH0ES is included. Additionally, by freely evolving
+the interaction parameter, we found that while the interaction remains
+small, it is not disfavoured by the data at late times. These results found
+to be more robust in tightening constraints on H0, S8, and dark matter
+density parameter (ΩDM) together at 68% confidence, and justify the reduced
+uncertainty and hence the parameter space. Next, I will discuss the coupled
+quintessence model within the framework of curved spatial geometry
+(Coupled+ΩK model) and examine the inconsistencies in spatial curvature and
+their implications for the H0 and S8 tensions[2]. The obtained results
+provide evidence for an open universe in the Coupled+ΩK model. Moreover,
+the results also indicate a lower value of dark energy equation of state
+(ωde) parameter compared to the flat interacting scenario, attributable to
+the curvature effect. I will delve deeper into how these findings within
+the Coupled+ΩK picture suggest that relaxing the flatness assumption in
+coupled dark sector models leads to more precise constraints on H0 and S8,
+as well as significantly better agreement between theory and observations.
+In the end, I will shed light on the ongoing research with DESI data.
+
+
+2. Study of Morphological Transformation of Galaxies in Massive Galaxy
+Clusters (Martha Lopez, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 197th>>
+2025. 1. 13 at 1:3*0 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Local Universe with Cosmicflows-4: updates (Alexandra Dupuy, KIAS)
+
+
+2. Tracing Dark Matter using Intracluster Light: Future Work after ICL in
+HR5 (Jaewon Yoo, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 196th>>
+2024. 12. 9 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Halo merger rates ab initio via the clustering of critic al events (Dmitri
+Pogosian, Univ. of Alberta)
+
+
+2. Spin transfer between gas and dark matter during dark matter halo
+collapse & what will I do in HR5? (Jie Li, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 195th>>
+2024. 11.25 at 1:3*0 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. On the statistical nature of Betti numbers and Euler characteristic of
+smooth random fields (Pravabati Chingangbam, IIA)
+
+
+2. The emergence of scaling laws: a dynamical perspective (Christophe
+Pichon, IAP)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 194th>>
+2024. 11.05 at 3:3*0 pm* Tuesday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Finding dual AGN in nearby galaxies and understanding their host galaxy
+properties (Mousumi Das, IIA)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 193rd>>
+2024. 11.04 at 3:0*0 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Large-scale geometry and topology of gas fields: Effects of AGN and
+stellar feedback (Katarina Kraljic, Strasbourg Observatory)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 192nd>>
+2024. 10.21 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. High-Redshift Galaxies: Discrepancies Between JWST Findings and
+Simulated Results (Myoungwon Jeon, KHU)
+
+
+2. NIRCam Grisms: A telescope alignment tool produces valuable science
+(Daniel Jaffe, UT Austin)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 191st>>
+2024. 10.7 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Resolving cosmological challenges with a dedicated large-scale
+spectroscopic survey (David Parkinson, KASI)
+
+Abstract: The concordance model of cosmology, known as LambdaCDM, has
+provided a range of specific predictions that have been consistent with
+many observations in the past, but is now facing serious challenges.
+Expansion history data indicate inconsistency with the theory (deviations
+from Lambda) or from each other (H0 tension). Large-scale structure surveys
+such as SDSS, BOSS and DESI have shown that the distribution of galaxies in
+three-dimensions can be used to measure the expansion history, through
+standard rulers such as the Alcock-Paczynski test and baryon acoustic
+oscillations. The distribution of matter and growth rate of structure can
+also be measured by such a data set, providing complementary cosmological
+tests. This future data will confront these challenges, and provide
+evidence to potentially resolve the tensions. In this talk, we will present
+our plans and forecasts for a future dedicated large-scale spectroscopic
+survey, and the use of the data to probe the expansion history, and test
+models of dark energy. We will motivate our proposed survey and instrument
+design by considering carefully choices of target galaxy, redshift range,
+and area coverage.
+
+
+2. Cosmological QUOKKAS - Quasar Observations on the KVN from Korea to
+Australia and Spain/South Africa (Jeffrey Hodgson, Sejong Uni.)
+
+Abstract: Cosmological QUOKKAS is an ambitious project to create a Hubble
+Diagram over the redshift range 0 < z < 5 in a way completely independent
+of the Distance Ladder. The method, known as a 'causality distance' uses
+the speed-of-light to calibrate a standard ruler in the flaring regions
+of blazars. The apparant size is measured with Very Long Baseline
+Interferometry (VLBI) and a distance can be determined. Currently, weekly
+observations are ongoing with the Korean VLBI Network (KVN), the Mopra
+telescope in Australia and the Hartebeesthoek telescope in South Africa. Early
+results from archival data show hints of a deviation from the expected
+cosmology at high-z, but further work to calibrate systematic errors will
+be needed to confirm or deny such a finding.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 190th>>
+2024. 9.2 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Observational evidence for Early Dark Energy as a unified explanation
+for Cosmic Birefringence and the Hubble tension (Joby Kochappan, APCTP)
+
+Abstract: Early Dark Energy (EDE) models which were proposed to help
+resolve the Hubble tension have received a lot of attention recently.
+Interestingly, these models are also capable of providing an explanation
+for the observed signal of Cosmic Birefringence in the Cosmic Microwave
+Background (CMB) data. In this talk, I will briefly review the ultralight
+axion-like EDE models with n=3 and present our work testing the model
+against cosmological observations. While previous articles in the
+literature argue that the n=3 EDE model is not consistent with observations
+of cosmic birefringence, we show that it is a consequence of the
+assumptions made about the dependence of the CMB power spectrum on the
+model parameters. We relax these assumptions and do an exploration of the
+full parameter space and find that the model can fit the observations quite
+well. EDE remains a promising candidate to explain the Hubble tension and
+cosmic birefringence, hitting two birds with one stone.
+
+
+2. Research progress update (Fei Qin, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 189th>>
+2024. 8.19 at 1:3*0 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Dark Energy parameterizations after DESI 2024 and the Alcock-Paczynski
+Test within Quintessence Dark Energy models (Zahra Davari, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 188th>>
+2024. 7. 26 at 4*:00 pm* Friday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Progress report (Jeonggyu Kim, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 187th>>
+2024. 6. 24 at 1*:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. DESI 2024 BAO results and the cosmological implications (Hee-Jong Seo,
+Ohio Uni)
+
+Abstract: The Dark Energy Spectroscopic Instrument (DESI) collaboration is
+conducting a five-year redshift survey of 40 million extra-galactic sources
+over 14,000 square degrees of the northern sky up to the redshift of 4 with
+the Mayall 4-meter telescope at Kitt Peak National Laboratory. One of its
+primary goals is to measure the cosmic expansion history precisely and
+accurately through the measurements of baryon acoustic oscillations (BAO).
+In this talk, I will present the analysis of the DESI First Year Baryon
+Acoustic Oscillations using the distributions of galaxies and quasars over
+the redshift range of 0.1-2, the estimates of the relevant systematics, and
+their intriguing cosmological implications, including the time-evolving
+dark energy. If time permits, I will also present the study of the imaging
+systematics mitigation for the DESI survey as well as the BAO using the
+combined tracers.
+
+
+2. Model independent approach for calculating galaxy rotation curves for
+low S/N MaNGA galaxies (Sangwoo Park, KASI)
+
+Abstract: Internal kinematics of galaxies, traced through the stellar
+rotation curve or two dimensional velocity map, carry important information
+on galactic structure and dark matter. With upcoming surveys, the velocity
+map may play a key role in the development of kinematic lensing as an
+astrophysical probe. We improve techniques for extracting velocity
+information from integral field spectroscopy at low signal-to-noise ( S/N),
+without a template, and demonstrate substantial advantages over the
+standard Penalized PiXel-Fitting method (pPXF) approach. We note that
+Robust rotation curves can be derived down to S/N≈2 using our method.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 186th>>
+2024. 6. 10 at 1*:30 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Morphology of High-Redshift Galaxies in the Horizon Run 5 Simulation and
+JWST Observation (Prof. Changbom Park, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 185th>>
+2024. 5. 13 at 1*:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Progress report (Ankit Singh, KIAS)
+
+
+2. Progress report (Preetish Mishura, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 184th>>
+2024. 5. 7 at 1*:30 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Control of star formation by UV radiation feedback from massive
+stars (Jeong-Gyu
+Kim, NAOJ)
+Abstract:
+UV photons produced by young massive stars are the major source of heating
+and ionization in the interstellar medium (ISM). H II regions created by
+ionizing photons photoevaporate and expel the surrounding molecular gas
+that would otherwise fuel further star formation, regulating the star
+formation efficiency and lifetime of giant molecular clouds. UV radiation
+(both Lyman continuum and far-UV) escaping into the large-scale ISM
+produces the interstellar radiation field (ISRF). The LyC ISRF maintains
+the ionization of diffuse ionized gas while the FUV ISRF controls the
+thermal pressure in the diffuse neutral gas, providing pressure support
+needed to balance the ISM weight on galactic scales. In this talk, I will
+overview key physical processes driven by UV radiation and introduce
+radiation MHD simulations of the multiphase, star-forming ISM incorporating
+these effects. I will highlight key findings from our models, focusing on
+the role of UV radiation in controlling star formation on cloud and
+galactic scales.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 183rd>>
+2024. 4. 29 at 1*:30 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Progress report (Priya Goyal, KIAS)
+
+
+2. Progress report (Fei Qin, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 182nd>>
+2024. 4. 8 at 1*:30 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Minkowski Tensors in Cosmology (Prof. Changbom Park, KIAS)
+
+ABSTRACT: The tensor Minkowski functionals or Minkowski tensors (MTs) are
+generalizations of the usual Minkowski Functionals, which are scalar
+quantities. The MTs are a set of statistics defined as integrals over the
+boundary of an excursion set, with integrands related to symmetric tensor
+products of position vectors and normals to the boundary. They provide
+directional or anisotropy information that is not present in the scalar
+Minkowski functionals. Since 2017, the MTs have been used in cosmology.
+Efficient and accurate algorithms have been developed for calculation of
+rank-two MTs for analyses of cosmic microwave background radiation
+anisotropy on the surface of the celestial sphere, and matter and galaxy
+density fluctuations in 3D space or in 2D slice. Extensive studies have
+been made to examine the impacts of the nonlinear gravitational evolution,
+galaxy bias, and redshift space distortion on the MTs of large-scale
+structures in the universe. The recent developments in the application of
+the MTs in the large-scale structure cosmology are reviewed.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 181st>>
+2024. 3. 25 at 1*:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Progress report (Alexandra Dupuy, KIAS)
+
+
+2. Progress report (Jaewon Yoo, KIAS)
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 180th>>
+2024. 3. 11 at 1*:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+
+1. Spectroscopic Surveys of Galaxy Clusters (Ken Rines,  West Washington
+University  )
+Abstract : Clusters of galaxies are the largest gravitationally bound
+structures in the universe.  We have conducted dense redshift surveys of
+clusters selected by a variety of methods.  We compare dynamical masses to
+those found by gravitational lensing, X-ray, and SZ observations.
+Spectroscopic observations allow us to separate cluster members from
+background galaxies and to study the connections between cluster properties
+and the dynamical properties of individual galaxies.  Redshift surveys have
+a unique ability to probe the infall regions of clusters where galaxies are
+bound but not yet virialized.  I will describe our measurements of mass
+profiles extending into the infall regions and how we can use these to
+measure the mass accretion rates of clusters.  Finally, I will preview how
+large surveys like eROSITA and DESI will dramatically improve our
+understanding of clusters.
+
+2. Mapping the transformations of quiescent galaxies over the last 7
+billion years of cosmic history (Ivana Dajanov,   Saint Mary's University
+(Canada))
+Abstract : Comparisons of quiescent galaxies in the distant universe with
+their counterparts in the local volume show that the structure of galaxies
+continues to change well after they stop forming stars. The average size of
+quiescent population increases by a factor of a few  between redshifts z~2
+and z~0. In contrast to the existing surveys of high-redshift universe, at
+intermediate redshift (0.2<z<1) we can trace galaxy populations by
+combining high-resolution imaging and dense redshift surveys that map large
+areas of the sky. I will describe how HectoMAP, the spectro-photometric
+survey of the middle-aged universe, enables us to test models of galaxy
+mass assembly by accurately characterizing the correlations between the
+evolution in structural and stellar population properties of quiescent
+systems.
+
+3. The growth of clusters with IllustrisTNG (Michele Pizzardo,   Saint
+Mary's University (Canada))
+Abstract : Galaxy clusters are massive bound systems. Their virialized core
+extending to ~ 1-2 Mpc, accretes matter from the outer region that extends
+for ~ 5-10 Mpc. We use the radial velocity profile of galaxies drawn from
+IllustrisTNG clusters with M200>10^14 Msun and 0.01<=z<=1.04 to explore
+cluster growth. We locate distinct dynamical regions and estimate mass
+accretion rate (MAR). The MAR is correlated with cluster mass and redshift.
+The typical MAR ~ 10^4-10^5 Msun/yr. Dense spectroscopy of real clusters
+infall region will soon be a platform for applying and testing these model
+results.
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 179th>>
+2024. 2. 26 at 1*:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Investigation of several alternative models of cold Dark Matter (Zahra
+Davari)
+
+
+Abstract: In light of advancements in precise cosmology and the emergence
+of cosmic tensions, we are faced with the question of whether the standard
+model of cosmology needs to be extended and whether doing so can alleviate
+the tensions?
+In this talk, we investigate whether there is a relation between these
+tensions and beyond cold dark matter (CDM) scenarios and try to address the
+intriguing tensions of the standard model of cosmology with recent
+cosmological data.
+To model non-cold dark matter, we assume
+1) Decaying dark matter, characterized by instability and the possibility
+of decay into two daughter particles.
+ 2) Varying forms of viscous dark matter,
+3) Dark matter models featuring a non-zero equation of state so that the
+behavior of this dark matter changes according to the scale of k.
+Through a systematic examination of these models, we endeavor to shed light
+on the intricate interplay between cosmological tensions and extensions
+beyond the standard cold dark matter paradigm.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 178th>>
+2024. 1. 22 at 4*:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Galaxy Kinematics and 3D (IFU) spectroscopy (Sree Oh, Yonsei University)
+
+
+Abstract: The spatially-resolved kinematics of bulge and disk components
+derived from 3D spectroscopy explain a diverse range of stellar kinematics
+in galaxies across different types. Kinematic scaling relations highlight a
+consistent correlation between galaxy stellar mass and kinematics in both
+bulge and disk components, irrespective of galaxy types. This suggests that
+the kinematics of these components are less influenced by galaxy
+populations and are primarily determined by mass. Our findings also
+indicate that the relative contributions of bulge and disk components play
+a significant role in explaining the complex kinematic behavior observed in
+galaxies of varying types. Additionally, 3D spectroscopy enables the
+investigation of AGN feedback on gas and stellar velocity dispersions (σgas
+and σstar). We observe that σstar (derived from absorption lines) tends to
+be higher than σgas (measured using emission lines), implying that stars
+are generally dynamically hotter than ionized gas. The ratio of σgas to σ∗
+(Δσ = log σgas/σ∗) strongly correlates with the contribution of AGN,
+suggesting that AGN activity inflates gas velocity dispersions—potentially
+through AGN-driven outflows. This impact of AGN on gas kinematics is
+further confirmed by fitting emission lines with both broad and narrow
+components. Galaxies with a broad component exhibit inflated gas velocity
+dispersions compared to predictions by the stellar mass. Notably, a tight
+correlation exists between the velocity dispersion of the broad component
+(σbroad) and the contribution of AGN. In conclusion, our study emphasizes
+the sensitivity of gas kinematics to power sources, particularly
+highlighting the significant contribution of AGN to inflated gas velocity
+dispersions.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 177th>>
+2024. 1. 15 at *1:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Towards Robust Simulation-based Inference (Yongseok Jo, Columbia
+University)
+
+
+Abstract: In a novel approach employing implicit likelihood inference
+(ILI), also known as likelihood-free inference, we calibrate the parameters
+of cosmological hydrodynamic simulations against observations, which have
+previously been unfeasible due to the high computational cost of these
+simulations. For computational efficiency, we train neural networks as
+emulators on ~1000 cosmological simulations from the CAMELS project to
+estimate simulated observables, taking as input the cosmological and
+astrophysical parameters, and use these emulators as surrogates to the
+cosmological simulations. Using the cosmic star formation rate density
+(SFRD) and, separately, stellar mass functions (SMFs) at different
+redshifts, we perform ILI on selected cosmological and astrophysical
+parameters (Omega_m, sigma_8, stellar wind feedback, and kinetic black hole
+feedback) and obtain full 6-dimensional posterior distributions. In the
+performance test, the ILI from the emulated SFRD (SMFs) can recover the
+target observables with a relative error of 0.17% (0.4%). We find that
+degeneracies exist between the parameters inferred from the emulated SFRD,
+confirmed with new full cosmological simulations. We also find that the
+SMFs can break the degeneracy in the SFRD, which indicates that the SMFs
+provide complementary constraints for the parameters. Further, we find that
+the parameter combination inferred from an observationally-inferred SFRD
+reproduces the target observed SFRD very well, whereas, in the case of the
+SMFs, the inferred and observed SMFs show significant discrepancies that
+indicate potential limitations of the current galaxy formation modeling and
+calibration framework, and/or systematic differences and inconsistencies
+between observations of the stellar mass function.
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 176th>>
+2023. 11. 30 at *1:30 pm* Thursday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Probing galaxy size-dark matter halo radius relation using weak
+lensing (Mishra
+Preetish, KIAS)
+
+
+Abstract: Classic galaxy formation models predict a linear relationship
+between galaxy size and the radius of dark matter halo. However, the status
+of this predicted relationship is uncertain as empirical models and
+simulations in the past decade find both supporting and opposing results on
+this supposed linear relation. In this work, we re-examine the galaxy
+size-halo radius relation using weak gravitational lensing which is a
+direct method of probing dark matter distribution around luminous galaxies.
+Our sample consists of ~38,000 galaxies more massive than logM*=8 and
+within redshift z<0.3 drawn from the overlap of GAMA survey DR4 and
+Subaru-HSC survey PDR2. We confirm that the galaxy size - halo radius
+relation is linear for galaxies more massive than logM*~9. Below this mass
+limit, i.e., for low mass/dwarf galaxies, we find an indication of a
+non-linear galaxy size-halo radius relation. The possible existence of such
+a trend in dwarf galaxy sector calls for either modification in models
+employing a constant fraction of halo angular momentum transferred to
+explain sizes of dwarfs or else points towards our lack of knowledge about
+dark matter halos of low-mass galaxies.
+
+
+2. Estimating spin parameters ab initio (Christoph Pichon, IAP) - Part 2
+
+
+Abstract: We build a model to predict from first principles the properties
+of major mergers. We predict these from the coalescence of peaks and saddle
+points in the vicinity of a given larger peak, as one increases the
+smoothing scale in the initial linear density field as a proxy for cosmic
+time.
+
+Our model allows us to  recover that the typical spin brought by mergers:
+it is of the order of a few tens of per cent.
+
+
+==============================  ===============
+<< KIAS Dark Energy Science Group Meeting 175th>>
+2023. 11. 13 at *1:30 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Estimating spin parameters ab initio (Christoph Pichon, IAP)
+
+
+Abstract: We build a model to predict from first principles the properties
+of major mergers. We predict these from the coalescence of peaks and saddle
+points in the vicinity of a given larger peak, as one increases the
+smoothing scale in the initial linear density field as a proxy for cosmic
+time.
+
+Our model allows us to  recover that the typical spin brought by mergers:
+it is of the order of a few tens of per cent.
+
+
+2. The incipient hot intracluster medium of z > 2 protoclusters (Raphael
+Gobat, PCUV)
+
+
+Abstract: The z = 2 - 3 regime is a pivotal epoch in the history of galaxy
+clusters, where baryons in the largest dark matter halos gradually
+transition from a mode of efficient accretion to one where the now-hot
+intrahalo medium (IHM) effectively prevents cold gas from reaching the
+center. On the other hand, halos in this late-stage protocluster regime
+still host large amounts of star formation and AGN activity. The heating up
+of these halos can be traced in at least two ways: through its effect on
+cold/warm gas, as traced by Lyman alpha emission, and by directly detecting
+the IHM, in particular through the Sunyaev-Zel'dovich (SZ) effect. However,
+SZ observations at high redshift are not free of biases related to the
+galaxy content of the halos. In this regard, ALMA has proved to be a
+powerful machine for high redshift ICM studies. Its large collecting area
+and excellent spatial filtering capability, makes it so far the only
+facility able to constrain the distribution of hot gas at z ~ 2 and beyond.
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 174th>>
+2023. 10. 24 at *1:30 pm* Tuesday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Status and future of 21cm cosmology during the first billion years (Andrei
+Mesinger, SNS)
+
+
+Abstract: The 21-cm hyperfine line of neutral hydrogen is set to
+revolutionize studies of the first billion years, spanning the cosmic dawn
+of the first stars and eventual reionization of our Universe.   I will
+discuss the potential of this probe in learning about the unknown
+astrophysics of the first galaxies as well as physical cosmology.  Current
+upper limits on the cosmic 21-cm power spectrum already provide new
+insights into the heating of the intergalactic medium, and the X-ray
+sources in the first galaxies.  I will discuss the upcoming steps,
+including the main challenges, that will eventually lead to the Nobel
+prize-worthy 3D map of half of our observable Universe with the Square
+Kilometer Array (SKA) telescope.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 173th>>
+2023. 10. 05 at *1:30 pm* Thursday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Dashing through the cluster: A UVIT view of star-forming galaxies in
+clusters (Smriti Mahajan, IISERM)
+
+Abstract: Traditionally, galaxies in clusters are known to be
+bulge-dominated, optically red and evolving passively, while their
+counterparts further away are dominated by blue disky galaxies, vigorously
+forming stars. The wide-field surveys carried out in the past two decades
+however, have shown that the outskirts of galaxy clusters, the regions
+where large-scale filaments intersect the boundary of the cluster, are
+breeding grounds for galaxies in transition phase. This is due to the fact
+that the evolution of galaxies is accelerated on the outskirts of clusters.
+It is in these suburbs of clusters, that the infalling galaxies are likely
+to lose their gas due to gravitational interactions with each other, and
+even change in morphology and colour, much before they encounter the
+hostile environment of the galaxy cluster.
+With this in mind, we started a campaign to observe the outskirts of nearby
+clusters of galaxies with the Ultraviolet Imaging Telescope (UVIT) aboard
+the multiwave Indian satellite mission AstroSat. We have combined our newly
+acquired FUV data with the arsenal of multiband data available in the
+archives to understand the nature and evolution of galaxies in clusters, as
+well as study properties of other sources observed by the UVIT. In this
+talk I will present results from our analysis indicating that several
+FUV-bright galaxies could have recently fallen into the Coma cluster and
+are currently experiencing ram-pressure stripping. I will also present the
+properties, plausible origin, and evolution of some of the distorted FUV
+galaxies discovered in the Coma and other nearby clusters. The presence of
+these galaxies not only emphasize the impact of environment on the
+evolution of galaxies, but also provides an insight into how mass assembles
+into galaxy clusters to give us the distribution of matter observed today.
+
+2. Recent Progress Report (Ankit Singh, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Special Seminar>>
+2023. 09. 12 at *1:30 pm* Tuesday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+Speaker: Dr. Fei Qin (KIAS)
+Title: The Halo Occupation Distribution of HI Galaxies - Part 2
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 172th >>
+2023. 08. 21 at *1:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. The Halo Occupation Distribution of HI Galaxies (Fei Qin, KIAS)
+
+Abstract: The next generation of galaxy surveys will provide more precise
+measurements of galaxy clustering than have previously been possible. The
+21 cm radio signals that are emitted from neutral atomic hydrogen (H I) gas
+will be detected by large-area radio surveys such as the Widefield
+Australian Square Kilometre Array (SKA) Pathfinder L-band Legacy All-sky
+Blind Survey and SKA, and deliver galaxy positions and velocities that can
+be used to measure galaxy clustering statistics. However, to harness this
+information to improve our cosmological understanding and learn about the
+physics of dark matter and dark energy, we need to accurately model the
+manner in which galaxies detected in H I trace the underlying matter
+distribution of the universe. For this purpose, we develop a new H I-based
+halo occupation distribution (HOD) model, which makes predictions for the
+number of galaxies present in dark matter halos conditional on their H I
+mass. The parameterized HOD model is fit and validated using the DARK SAGE
+semi-analytic model, where we show that the HOD parameters can be modeled
+by simple linear and quadratic functions of the H I mass. This work
+enables-for the first time-a simple prescription for placing galaxies of
+different H I masses within dark matter halos in a way that is able to
+reproduce the H I mass-dependent galaxy clustering and H I mass function
+simultaneously and without requiring knowledge of the optical properties of
+the galaxies. We also present a new halo density profile model for
+galaxies, which makes predictions for the positions of galaxies in the host
+halo, different to the widely adopted Navarro-Frenk-White (NFW) profile,
+since galaxies tend to be found more in the outskirts of halos (nearer the
+virial radius) than an NFW profile. The parameterised density profile model
+is fit and tested using the DarkSage semi-analytic model of galaxy
+formation. We find that our density profile model can accurately reproduce
+the halo occupation distribution and galaxy two-point correlation function
+of the DarkSage simulation. We also derive the analytic expressions for the
+circular velocity and gravitational potential energy for this density
+profile. We use the SDSS DR10 galaxy group catalogue to validate this halo
+density profile model. Compared to the NFW profile, we find that our model
+more accurately predicts the positions of galaxies in their host halo and
+the galaxy two-point correlation function.
+
+2. Testing Lyman alpha emitters and Lyman-break galaxies as tracers of
+large-scale structures in the universe (Sang Hyeok Im, SNU)
+
+=============================================
+<< KIAS Dark Energy Science Group Special Seminar>>
+2023. 08. 04 at *2:00 pm* Friday  / *#1424* or *Zoom* (ht
+tps://zoom.us/j/4316792441)
+
+Title: Studying baryonic flow across the cosmic scales using radio and
+millimeter wavelength experiments
+Speaker: Dr. Junhan Kim (Caltech)
+Reference: https://junhank.github.io/projects/
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 171th>>
+2023. 07. 07 at *2:00 pm* Friday / Seoul National University
+
+Info: https://docs.google.com/spreadsheets/d/116EzURA2D0tKf_
+51RgLGAzJDNgmNJQW96jUWyB5uhRc/edit?usp=sharing
+
+
+=============================================
+<< KIAS Dark Energy Science Group Special Seminar>>
+2023. 06. 02 at *2:00 pm* Friday  / *#1423* or *Zoom* (ht
+tps://zoom.us/j/4316792441)
+
+Speaker: Prof. Donghui Jeong
+Title: The Hubble Tension and Early Dark Energy
+Abstract: I’ll give a short review of the recent review article with the
+same title [arXiv:2211.04492 <https://arxiv.org/abs/2211.04492>]. The talk
+will be very pedagogical and interactive.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 170th >>
+2023. 04. 24 at *1:30 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Progress report on the physics of Lyman-alpha emitters (Jaehong Park,
+KIAS)
+
+2. Recent research progress (Priya Goyal, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 169th >>
+2023. 04. 03 at *1:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Progress report (Jaewon Yoo, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 168th >>
+2023. 03. 20 at *1:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Local Universe from Cosmicflows-4 (Alexandra Dupuy, KIAS)
+
+2. Tracking Halo Orbits and Their Mass Evolution around Large-scale
+Filaments (Hannah Jhee, UoS)
+
+Abstract: We have explored the dynamical and mass evolution of halos driven
+by large-scale filaments using a dark matter-only cosmological simulation
+with the help of a phase-space analysis. Since a non-negligible number of
+galaxies is expected to fall into the cluster environment through
+large-scale filaments, tracking how halos move around large-scale filaments
+can provide a more comprehensive view on the evolution of cluster galaxies.
+Halos exhibit orbital motions around filaments, which emerge as specific
+trajectories in a phase space composed of halos' perpendicular distance and
+velocity component with respect to filaments. These phase-space
+trajectories can be represented by three cases according to their current
+states. We parameterize the trajectories with halos' initial position and
+velocity, maximum velocity, formation time, and time since first crossing,
+which are found to be correlated with each other. These correlations are
+explained well in the context of the large-scale structure formation. The
+mass evolution and dynamical properties of halos seem to be affected by the
+density of filaments, which can be shown from the fact that halos around
+denser filaments are more likely to lose their mass and be bound within
+large-scale filaments. Finally we reproduce the mass segregation trend
+around filaments found in observations. It is resulted because halos that
+formed earlier arrived filaments earlier, and grew efficiently there being
+more massive. We also found that dynamical friction helps to retain this
+segregation trend.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 167th >>
+2023. 03. 06 at *1:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Testing Lyα emitters and Lyman-break galaxies as tracers of large-scale
+structures at high-z (Sang Hyeok Im, SNU)
+
+Abstract: Lyman alpha emitters (LAEs) and Lyman-break galaxies (LBGs) are
+widely used for observing large-scale structures at high redshifts.
+However, how well they trace those structures has not been thoroughly
+investigated. In this study, we test LAEs and LBGs as tracers of
+large-scale structures at high redshifts using the data of Horizon Run 5
+cosmological hydrodynamical simulation. We first construct samples of LAEs,
+LBGs, all galaxies, and dark matter particles. We then compare spatial
+distributions of our samples around the filamentary structures defined by
+dark matter particles. We also examine the thickness of the filamentary
+structures of each sample. Finally, we examine how the filamentary
+structures of galaxy samples (i.e., LAEs, LBGs, and all galaxies) are
+different compared to those of dark matter particles. From these results, I
+would like to discuss the feasibility of LAEs and LBGs as tracers of
+large-scale structures at high redshifts.
+
+2. Understanding the cause of diverse rotation curves of nearby galaxies
+with cosmological hydrodynamical simulations (Daeun Jeong, SNU)
+
+Abstract: Recent integral field spectroscopic observations of galaxies have
+shown that the radial dependence of galaxy rotation is very diverse. To
+better understand the physical origin of this diversity, we analyze the
+cosmological hydrodynamic simulation data of IllustrisTNG. We use the
+galaxies with 9.4 < log(Mstar/M☉) < 11.5 to make a sample comparable to
+that of observations. We construct the mock line-of-sight velocity IFU data
+and conduct 2D fitting to determine the rotational velocity and the slope
+of the rotation curve in the outer region. The outer slopes of the
+simulated galaxies show diverse patterns, which are consistent with
+observational results. We examine the relation between the outer slope and
+the galaxy properties, and successfully reproduce the observed dependence
+of the outer slope on morphology and stellar mass. The outer slope
+increases as galaxies are more disky, and decreases as galaxies are more
+massive in terms of stellar mass except for the high mass of early-type
+galaxies. We quantitatively verify that the dark matter fraction is the
+dominant factor affecting the slope of the outer region of the rotation
+curves. We plan to investigate the environmental effect and galaxy
+formation history to find out the origin of the diverse rotation curves of
+galaxies.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 166th >>
+2023. 02. 24 at* 4:00 pm *Friday / *Zoom* (https://us06web.zoom.
+us/j/4316792441?pwd=bmptOHhwL0N0SGhkcnhGOFB0Nlc3dz09)
+Title: The nature of statistical properties of Galactic foreground
+emissions (Pravabati Chingangbam)
+
+Abstract: Understanding the statistical properties of Galactic foreground
+emissions is a prerequisite for accurate component separation to obtain the
+weak signals of cosmological origin. The talk will focus on how
+morphological properties of the fields can be used to reveal their
+statistical nature, which can be incorporated into component separation
+pipelines.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 165th >>
+2022. 12. 12 at *1:30 pm* Monday / *#1424* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Cosmology with Method of Iterative Smoothing (Hanwool Koo, UST/KASI)
+Abstract: Iterative Smoothing Method is a non-parametric regression
+approach for reconstruction of expansion history of the Universe and
+properties of dark energy. We can apply this method in various aspects of
+cosmology and astrophysics with no cosmological model assumption. We have
+worked on constraining SN Ia light-curve hyperparameters, searching for
+features in the data which can be a hint for systematics or new physics,
+parameter estimation and model selection. Our most recent application of
+the method is comparing our novel frequentist approach for model selection
+with conventional Bayesian evidence model selection. We show that when none
+of the candidate models (proposed to fit a data) is the true model, our
+novel frequentist approach can rule out all candidates while conventional
+Bayesian approach selects the least incorrect model. For more practical
+application of the method, our ongoing task is developing method of
+iterative smoothing for reconstructing the expansion history using
+combination of data with different natures. The method using combination of
+Type Ia supernova and BAO data is in preparation. We expect that the new
+method can be applied for cosmological studies using the real data from
+present and forthcoming surveys including DESI, Rubin, Roman, etc.
+
+2. Joint reconstructions of growth and expansion histories from Stage-IV
+surveys with minimal assumptions (Rodrigo Calderon, KASI)
+Abstract: Using simulated Supernovae (SN), Baryon Acoustic Oscillations
+(BAO) and Redshift-Space Distortions (RSD) measurements from the next
+generation of (Stage-IV) cosmological surveys — and in particular the 14K
+deg2 data from DESI — we jointly reconstruct the growth and expansion
+histories using forward modeling and Gaussian Processes. Our approach only
+relies on few reasonable assumptions, namely: A (flat)
+Friedmann-Lemaître-Robertson-Walker metric, an Einstein De Sitter Universe
+at high-redshift.
+We forecast the future surveys’ potential to accurately reconstruct the
+Dark Energy (DE) evolution and thus to detect any possible deviation from a
+cosmological constant. We generate mock data for various alternative Dark
+Energy (DE) models, and illustrate how our method captures the correct DE
+behaviour in all cases — being capable of distinguishing them from \Lambda
+at more than 95% C.L.
+We extend our methodology to include possible deviations from General
+Relativity (GR) at low-z, by also reconstructing the phenomenological
+function Geff(z) governing the growth of (dust-like) matter density
+perturbations.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 164th >>
+2022. 11. 28 at *1:30 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Reconstruction of Hubble parameter and distance modulus using Principal
+Component Analysis (Ranbir Sharma, IISER Mohali)
+
+Abstract: Brief information of his research area: I work mostly on the
+statistical models/techniques and try to apply them in Cosmological
+data-sets. One of my completed work is "Reconstruction of late-time
+cosmology using Principal Component Analysis".  Combination of different
+statistical methods is one of my major fields of interest. In the above
+mentioned work we combine PCA with Correlation Coefficient Calculation to
+make the reconstruction unbiased. Our ongoing work is in combination of PCA
+and MCMC along with the combination of PCA with Gaussian Process.
+
+2. About standard model of cosmology (David Polarski, Université de
+Montpellier)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 163th >>
+2022. 10. 4 at *3:30 pm* Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Enlarging the morphological toolset for cosmology (Pravabati
+Chingangbam, IIA)
+Abstract: The appropriate mathematical representation of cosmological
+observables is in the language of random fields. Traditional extraction of
+physical information has mostly relied on the two-point function.
+Increasing availability of good quality data makes alternative methods that
+exploit the geometrical and topological properties of random fields very
+attractive for cosmological data analysis. A brief overview of such
+morphological tools and physics questions that can be probed by them will
+be presented. A couple of new morphological ideas will also be presented.
+
+2. Recent Progress Report (Céline Gouin, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 162th >>
+2022. 9. 19 at 1:30 pm Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. How to quantify the similarity of 2D distributions: Comparison of
+spatial distribution of Intracluster light and Dark Matter (Jaewon Yoo,
+KIAS)
+
+2. Project update on effect of AGNs on SFR estimation using IR wavelength
+(Ankit Singh, KIAS)
+Abstract: This will be a small talk giving details about the progress made
+on the project. I will also be discussing the data available for the
+galaxies in HR5 and future analysis.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 161th >>
+2022. 6. 13 at 1:30 pm Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Brief Introduction to Recent Research Topics (Priya Goyal, KIAS)
+
+2. Galaxy clusters in HR5 and their early distribution (Jaehyun Lee, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 160th >>
+2022. 5. 30 at 1:30 pm Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Recent progress report on the cosmic web (Junsup Shim, KIAS)
+
+* The schedule has been adjusted by the other speaker's circumstances.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 159th >>
+2022. 5. 16 at 1:30 pm Monday / *#1423* or *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Modelling Lyman alpha emitters in HR5: An empirical approach (Jaehong
+Park, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 158th >>
+2022. 5. 2 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Cosmology with the current generation of SDSS observations from the
+Tomographic Alcock-Paczyski test method (Fuyu Dong, KIAS)
+
+2. Evidence for Impact of Galaxy Mergers on Properties of Early-type
+Galaxies (Yongmin Yoon, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 157th >>
+2022. 3. 28 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Superclusters with Cosmicflows (Alexandra Dupuy, KIAS)
+Abstract: I am going to present my previous and current research projects,
+which all span around peculiar velocities and the Comicflows galaxy
+distance catalogs, from observations to more theoretical work.
+
+2. The Universal Specific Merger Rate of Dark Matter Halos (Fuyu Dong, KIAS)
+Abstract: We employ a set of high resolution N-body simulations to study
+the merger rate of dark matter halos. We define a specific merger rate by
+normalizing the average number of mergers per halo with the logarithmic
+mass growth change of the hosts at the time of accretion. Based on the
+simulation results, we find that this specific merger rate,
+$\mathrm{d}N_{\mathrm{merge}}(\xi|M,z)/\mathrm{d}\xi/\mathrm{d}\log M(z)$,
+has a universal form, which is only a function of the mass ratio of merging
+halo pairs, $\xi$, and does not depend on the host halo mass, $M$, or
+redshift, $z$, over a wide range of masses ($10^{12}\lesssim M
+\lesssim10^{14}\,M_\odot/h$) and merger ratios ($\xi\ge 1e-2$). We further
+test with simulations of different $\Omega_m$ and $\sigma_8$, and get the
+same specific merger rate. The universality of the specific merger rate
+shows that halos in the universe are built up self-similarly, with a
+universal composition in the mass contributions and an absolute merger rate
+that grows in proportion to the halo mass growth. As a result, the absolute
+merger rate relates with redshift and cosmology only through the halo mass
+variable, whose evolution can be readily obtained from the universal mass
+accretion history (MAH) model of \cite{2009ApJ...707..354Z}. Lastly, we
+show that this universal specific merger rate immediately predicts an
+universal un-evolved subhalo mass function that is independent on the
+redshift, MAH or the final halo mass, and vice versa.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 156th >>
+2022. 3. 14 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Development status of Aspera: the UV Small-Satellite for mapping
+warm-hot gas in nearby galaxy halos (Haeun Chung, Steward
+Observatory/University of Arizona)
+
+Abstract: Aspera is a new UV Small-Satellite mission to detect and map the
+warm-hot phase halo gas (10^5-10^6 K) around the nearby galaxy, led by the
+University of Arizona (PI: Carlos Vargas). The warm-hot phase gas occupies
+a considerable fraction of the galaxy baryonic mass budget. However, its
+amount and distribution are poorly unknown observationally. Aspera is
+specifically designed to observe those gas via UV spectroscopic observation
+of O VI line emission at 103.2 nm, a proxy of hot phase gas. High
+sensitivity of Aspera down to 5E-19 ergs/s/cm^2/arcsec^2 as well as a large
+field of view of 30 arcsec x 1 degrees allow detecting the faint O VI line
+emission efficiently. Aspera has been selected as one of the inaugural NASA
+Astrophysics Pioneers missions in early 2021. It has passed its conceptual
+design review and is now in the preliminary design phase, with a launch
+date of mid-2025. In this talk, I will present the science, instrument
+design and the status of the Aspera mission.
+
+2. Gravitational Waves, CMB Polarization, and Hubble Tension (Donghui
+Jeong, PSU)
+
+Abstract: The discrepancy between the Hubble parameter inferred from local
+measurements and that from the cosmic microwave background (CMB) has
+motivated careful scrutiny of the assumptions that enter both analyses.
+Here we point out that the location of the recombination peak in the CMB
+B-mode power spectrum is determined by the light horizon at the surface of
+last scatter and thus provides an alternative early-Universe standard
+ruler. It can thus be used as a cross-check for the standard ruler inferred
+from the acoustic peaks in the CMB temperature power spectrum and to test
+various explanations for the Hubble tension. The measurement can
+potentially be carried out with a precision of ≲2% with stage-IV B-mode
+experiments. The measurement can also be used to measure the propagation
+speed of gravitational waves in the early Universe.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 155th >>
+2022. 1. 17 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Study of the effect of AGN activity on SFR estimation in Infrared
+wavelength using HR5 (Ankit Singh, KIAS)
+Abstract: I will be discussing my latest progress on the project. I will be
+describing the motivation, method, and a few results on the topic.
+
+2. Progress report on Spectro-photometric Monitoring of Highly-variable
+Mid-IR Selected Active Galactic Nuclei, Galaxy Environment of Massive
+Quasars: Constraints From Horizon Run 5 Simulations (Hyunsung Jun, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 154th >>
+2021. 12. 6 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Measurement of the intrinsic alignments for red galaxies at z~1.3
+(Motonari Tonegawa, APCTP)
+
+2. Weak-lensing Mass Reconstruction of Galaxy Clusters with Convolutional
+Neural Network (Sungwook Hong, KASI)
+Abstract: We introduce a novel method for reconstructing the projected
+matter distributions of galaxy clusters with weak-lensing (WL) data based
+on convolutional neural network (CNN). Training datasets are generated with
+ray-tracing through cosmological simulations. We control the noise level of
+the galaxy shear catalog such that it mimics the typical properties of the
+existing ground-based WL observations of galaxy clusters. We find that the
+mass reconstruction by our multi-layered CNN with the architecture of
+alternating convolution and trans-convolution filters significantly
+outperforms the traditional reconstruction methods. The CNN method provides
+better pixel-to-pixel correlations with the truth, restores more accurate
+positions of the mass peaks, and more efficiently suppresses artifacts near
+the field edges. In addition, the CNN mass reconstruction lifts the
+mass-sheet degeneracy when applied to sufficiently large fields. This
+implies that this CNN algorithm can be used to measure cluster masses in a
+model independent way for future wide-field WL surveys.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 153th >>
+2021. 11. 22 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Shape and connectivity of galaxy clusters: Impact on gas distribution
+(Céline Gouin,KIAS)
+
+Abstract: Matter distribution around clusters is highly anisotropic from
+their being the nodes of the cosmic web. First, I investigate the influence
+of mass assembly history on both the shape and local connectivity of about
+415 clusters of galaxies from IllustrisTNG simulation at z=0. The mass of
+clusters mainly influences the geometry of the matter distribution: massive
+halos are more elliptical, and more connected to the cosmic web than
+low-mass ones. Beyond the mass-driven effect, ellipticity and connectivity
+appear to trace different dynamical states, and it seems to result
+of different accretion histories. Secondly, I will present the statistical
+exploration of radial and azimuthal gas distribution around the same
+simulated galaxy cluster sample. Whereas hot plasma is virialised inside
+clusters, the warm diffuse gas phases is infalling from cosmic filaments
+to cluster peripheries. Azimuthal symmetries of gas and DM are directly
+related to the physical and dynamical properties of galaxy clusters.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 152th >>
+2021. 11. 8 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Intracluster Light Properties in a Fossil Cluster at z=0.47 (Jaewon Yoo,
+KASI)
+Abstract: please refer to the paper link, https://arxiv.org/abs/2109.12121.
+
+2. Recent Research Progress (Seong-kook Lee, SNU)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 151th >>
+2021. 10. 25 at 2:00 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Simulating Jellyfish Galaxies: A Case Study for a Gas-Rich Dwarf Galaxy
+(Jaehyun Lee, KIAS)
+Abstract: We investigate the formation of jellyfish galaxies using
+radiation-hydrodynamic simulations of gas-rich dwarf galaxies with a
+multi-phase interstellar medium (ISM).  We find that the
+ram-pressure-stripped (RPS) ISM is the dominant source of molecular clumps
+in the near wake within 10 kpc from the galactic plane}, while in-situ
+formation is the major channel for dense gas in the distant tail of the
+gas-rich galaxy. Only 20% of the molecular clumps in a near wake originates
+from the intracluster medium (ICM); however, the fraction reaches 50% in
+the clumps located at 80kpc from the galactic center since the cooling time
+of the RPS gas tends to be short due to the ISM-ICM mixing (< 10 Myr).  The
+tail region exhibits a star formation rate of 0.001-0.01Msun/yr, and most
+of the tail stars are born in the stripped wake within 10\,kpc from the
+galactic plane. These stars induce bright H-alpha blobs in the tail, while
+H-alpha tails fainter than 10^38 erg/s/kpc^2 are formed via processes other
+than star formation.  We also find that the stripped tails have
+intermediate X-ray to H-alpha surface brightness ratios (1< Xray/Halpha<
+10), compared to the ISM (<1) or ICM (>>10). Our results suggest that
+jellyfish features emerge when the ISM from gas-rich galaxies is stripped
+by strong ram pressure, mixes with the ICM, and enhances the cooling in the
+tail.
+
+2. The role of group dynamics on the evolution of galaxies; observations
+and simulations (Mojtaba Raouf, Leiden Observatory)
+Abstracts: The properties of galaxies are known to be largely influenced by
+their local and global environment. One of the important and unresolved
+aspects of structure formation is the prediction of the structural and
+dynamical properties of a virialized object, due to a large reflection of
+the nonlinear dynamics involved. In reality, galaxies plunge into galaxy
+groups and clusters, and their properties are affected by their
+environments.  In this talk, I am going to show the role of group dynamics
+on the evolution of galaxies using observational surveys, semi-analytic
+models, and hydrodynamical simulations for galaxy formation to improve the
+galaxy-halo connection scenario.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 150th >>
+2021. 9. 27 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Recent research progress (Jaehong Park, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 149th >>
+2021. 9. 6 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. STag: Supernova Tagging and Classification (William Davison, KASI)
+
+Abstract: Supernovae classes have been defined phenomenologically, based on
+spectral features and time series data, since the specific details of the
+physics of the different explosions remain unrevealed. However, the number
+of these classes is increasing as objects with new features are observed,
+and the next generation of large-surveys will only bring more variety to
+our attention. We apply the machine learning technique of multi-label
+classification to the spectra of supernovae. By measuring the probabilities
+of specific features or ‘tags’ in the supernova spectra, we can compress
+the information from a specific object down to that suitable for a human or
+database scan, without the need to directly assign to a reductive ‘class’.
+We use logistic regression to assign tag probabilities, and then a
+feed-forward neural network to filter the objects into the standard set of
+classes, based solely on the tag probabilities. We present STag, a software
+package that can compute these tag probabilities and make spectral
+classifications.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 148th >>
+2021. 8. 9 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Recent Research Progress (Junsup Shim, KIAS)
+
+2. Modelling chemical abundance distributions for giant elliptical
+galaxies: the comparison with an outer halo field in NGC 5128 (Ena Choi,
+KIAS/QUC)
+
+Abstract - The stellar metallicity distribution functions (MDF) has been
+measured for resolved stellar populations in outer halos of many galaxies
+in nearby groups. Among them, the MDF of NGC 5128, the central giant
+elliptical in the Centaurus group, provides important constraints for
+massive galaxy formation and hierarchical assembly models. To investigate
+the formation and chemical evolution history of outer halo of giant
+elliptical galaxies, we examine the chemical properties of 3 cosmological
+hydrodynamical simulations of an NGC 5128-like massive galaxy and compare
+their MDFs of outer halo field to the observed one of NGC 5128. Even though
+simulated galaxies have different merging histories and different age
+distributions, they all show comparable MDFs to the observed one. In this
+talk, I will discuss the origin of the stellar particles ending up in the
+outer halo field of massive galaxies. Most of stars in outer fields of
+galaxies have `accreted' origin, formed in other small galaxies and later
+merged in. Only 15 % of stars are formed `in-situ' in the central region of
+the main progenitor of galaxy and radially migrate away.
+
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 147th >>
+2021. 7. 26 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. The Kaiser-Rocket effect: three decades and counting (Benedict
+Bahr-Kalus, KASI)
+Preprint: https://arxiv.org/abs/2107.00351
+
+2. The impact of the ISM/CGM on Lyman alpha emission in idealized galaxy
+simulations (Hyunmi Song, Yonsei University)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 146th >>
+2021. 6. 28 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. My current progress on the AP-Test: Mock Creation for the SDSS catalogue
+with HR4 (Fuyu Dong, KIAS)
+
+2. Rotation Curves of Galaxies and Their Dependence on Morphology and
+Stellar mass (Yongmin Yoon, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 145th >>
+2021. 6. 14 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Effects of environment on AGN in HR5 simulation (Ankit Singh, KIAS)
+
+2. Evolution of Disk Galaxies and Current Status of LAE Simulation (Yonghwi
+Kim, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 144th >>
+2021. 5. 24 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Galaxy environment of quasars II. A narrow-band study at z=1.47
+(Hyunsung Jun, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 143th >>
+2021. 4. 26 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Local patch analysis for  testing statistical isotropy of the Planck
+convergence map (Priya Goyal, IIA)
+
+Abstract: The small but measurable effect of weak gravitational lensing on
+the cosmic microwave background radiation provides information about the
+large-scale distribution of matter in the universe. We use the all sky
+distribution of matter, as represented by the convergence map that is
+inferred from CMB lensing measurement by Planck survey, to test the
+fundamental assumption of Statistical Isotropy (SI) of the universe. For
+the analysis we use the α statistic that is devised from the contour
+Minkowski tensor, a tensorial generalization of the scalar Minkowski
+functional, the contour length. In essence, the α statistic captures the
+ellipticity of iso-field contours at any chosen threshold value of a smooth
+random field and provides a measure of anisotropy. The SI of the observed
+convergence map is tested against the suite of realistic simulations of the
+convergence map provided by the Planck collaboration. We first carry out a
+global analysis using the full sky data after applying the galactic and
+point sources mask. We find that the observed data is consistent with SI.
+Further we carry out a local search for departure from SI in small patches
+of the sky using α. This analysis reveals several sky patches which exhibit
+deviations from simulations with statistical significance higher than 95%
+confidence level (CL). Our analysis indicates that the source of the
+anomalous behaviour of most of the outlier patches is inaccurate estimation
+of noise. We identify two outlier patches which exhibit anomalous behaviour
+originating from departure from SI at higher than 95% CL. Most of the
+anomalous patches are found to be located roughly along the ecliptic plane
+or in proximity to the ecliptic poles.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 142th >>
+2021. 4. 5 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. The nature of non-Gaussianity and statistical isotropy of the 408 MHz
+Haslam Map (Fazlu Rahman, IIA India)
+
+Abstract: Accurate component separation of full-sky maps in the microwave
+frequencies relies on a thorough understanding of the statistical
+properties of the Galactic foreground emissions. Using scalar Minkowski
+functionals and their tensorial generalization known as Minkowski tensors,
+we analyze the statistical properties of one of the major foreground
+components, namely, the Galactic synchrotron given by the full sky 408 MHz
+Haslam map. We find that the overall level of the non-Gaussian deviations
+does decrease as more high emission regions are masked and as we go down to
+smaller scales, in agreement with results obtained in earlier works.
+However, they remain significantly high, of order 3-σ, at the smallest
+angular scales relevant for the Haslam map. We carry out a detailed
+examination of the non-Gaussian nature using the generalized skewness and
+kurtosis cumulants that arise in the perturbative expansion of Minkowski
+functionals for weakly non-Gaussian fields. We find that the leading
+sources of non-Gaussianity are the kurtosis  terms which are considerably
+larger than the skewness terms at all angular scales. Further, for the
+cooler regions of the Haslam map, we find that the non-Gaussian deviations
+of the Minkowski functionals can be well explained by the perturbative
+expansion up to second order (up to kurtosis terms), with the first-order
+terms being sub-dominant. Lastly, we test the statistical isotropy of the
+Haslam map and find that it becomes increasingly more isotropic at smaller
+scales.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 141th >>
+2021. 3. 15 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. HR5 data release & merger trees (Jaehyun Lee, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 140th >>
+2021. 2. 22 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Testing cosmology using peculiar velocity surveys (Fei Qin, KASI)
+
+Abstract :  In the local Universe, the gravitational effects of mass
+density fluctuations exert perturbations on galaxies’ redshifts on top of
+Hubble’s Law, called ‘peculiar velocities’. These peculiar velocities
+provide an excellent way to test the cosmological model in the nearby
+Universe. In this talk, we present new cosmological constraints using
+peculiar velocities measured with the 2MASS Tully-Fisher survey (2MTF),
+6dFGS peculiar-velocity survey (6dFGSv) and the cosmicflows-3 compilation.
+Firstly, the dipole and the quadrupole of the peculiar velocity field,
+commonly named ‘bulk flow’ and ‘shear’ respectively, enable us to test
+whether our cosmological model accurately describes the motion of galaxies
+in the nearby Universe. We develop and use a new Bayesian estimator that
+accurately preserves the error distribution of the measurements to measure
+these moments. In all cases, our results are consistent with the
+predictions of the Λ cold dark matter model. Additionally, measurements of
+the growth rate of structure, fσ8 in the low-redshift Universe allow us to
+test different gravitational models. We developed a new estimator of the
+“momentum” (density weighted peculiar velocity) power spectrum and use
+joint measurements of the galaxy density and momentum power spectra to
+place new constraints on the growth rate of structure from the combined
+2MTF and 6dFGSv data. We recover a constraint of fσ8=0.404+0.082-0.081 at
+an effective redshift zeff=0.03. This measurement is also fully consistent
+with the expectations of General Relativity and the Λ Cold Dark Matter
+cosmological model.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 139th >>
+2021. 2. 8 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Recent Research Progress (Ena Choi, KIAS/QUC)
+
+2.  The clustering of critical points in the evolving cosmic web (Junsup
+Shim, KIAS)
+
+Abstract : Focusing on both small separations and Baryonic Acoustic
+Oscillation scales, the cosmic evolution of the clustering properties of
+the peak, void, wall, and filament-type critical points is measured using
+two-point correlation functions in ΛCDM dark matter simulations as a
+function of their relative rarity. A qualitative comparison to the
+corresponding theory for Gaussian random fields allows us to understand the
+following observed features: i) the appearance of an exclusion zone at
+small separation, whose size depends both on rarity and signature (i.e.the
+number of negative eigenvalues) of the critical points involved; ii) the
+amplification of the Baryonic Acoustic Oscillation bump with rarity and its
+reversal for cross-correlations involving negatively biased critical
+points; iii) the orientation-dependent small-separation divergence of the
+cross-correlations of peaks and filaments (resp. voids and walls) which
+reflects the relative loci of such points in the filament’s (resp. wall’s)
+eigenframe. The (cross-) correlations involving the most non-linear
+critical points (peaks, voids) display significant variation with redshift,
+while those involving less non-linear critical points seem mostly
+insensitive to redshift evolution, which should prove advantageous to
+modeling. The ratios of distances to the maxima of the peak-to-wall and
+peak-to-void over that of the peak-to-filament cross-correlation
+are∼√2and∼√3, respectively which could be interpreted as the cosmic crystal
+being on average close to a cubic lattice. The insensitivity to redshift
+evolution suggests that the absolute and relative clustering of critical
+points could become a topologically robust alternative to standard
+clustering techniques when analyzing upcoming surveys such as Euclid or
+LSST.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 138th >>
+2021. 1. 25 at 1:30 pm Monday /* Zoom* (https://zoom.us/j/4316792441)
+
+1. Recent progress of the “AP test” project on eBOSS data (Fuyu Dong, KIAS)
+
+2. Progress reports on the calibration of the Reionization history for
+photon-conservation and Lyman-alpha emitters in HR5 (Jaehong Park, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 137th >>
+2021. 1. 11 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. A progress report on morphology of the first galaxies in HR5 (Changbom
+Park, KIAS)
+
+2. TBA (Juhan Kim, KIAS/CAC)
+
+3. TBA (Yongmin Yoon, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 136th >>
+2020. 12. 21 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. The case for and against a local void resolution to Hubble tension (Eoin
+O Colgain, APCTP)
+Abstract: The consensus appears to be that cosmic voids or underdensities
+cannot explain Hubble tension. I will review some of the recent literature.
+
+2. Star-formation of galaxies in high-redshift galaxy clusters  (Seong-Kook
+Joshua Lee, SNU)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 135th >>
+2020. 12. 7 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. The recent progress on measuring CMB lensing signals with DESI DR8
+galaxy catalog (Fuyu Dong, KIAS)
+
+2. Tremulous beads on the web: Study of galaxies in large-scale filament
+environment (Ankit Singh, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 134th >>
+2020. 10. 26 at 1:30 pm Monday / APCTP (Pohang) & *Zoom* (https://zoom.
+us/j/4316792441)
+
+1. Physical properties of stellar and gaseous components of galaxies in
+cosmological evolution (Yonghwi Kim, KIAS)
+
+2. Galaxy environment of quasars I. introduction (Hyunsung Jun, KIAS)
+
+3. Measuring the Minkowski tensors from large scale structure data (Stephen
+Appleby, APCTP)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 133th >>
+2020. 10. 12 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Aspera: UV Small-Satellite mission for imaging warm-hot coronal gas in
+nearby galaxy halos (Haeun Chung, University of Arizona)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 132th >>
+
+2020. 9. 21 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Reseach Progress (Yongmin Yoon, KIAS)
+
+2. Dual Effects of Ram Pressure on Star Formation in Multi-phase Disk
+Galaxies with Strong Stellar Feedback (Jaehyun Lee, KIAS)
+
+Abstract: We investigate the impact of ram pressure stripping due to the
+intracluster medium (ICM) on star-forming disk galaxies with a multi-phase
+interstellar medium (ISM) maintained by strong stellar feedback. We carry
+out radiation-hydrodynamics simulations of an isolated disk galaxy embedded
+in a 10^11Msun dark matter halo with various ICM winds mimicking the
+cluster outskirts (moderate) and the central environment (strong). We find
+that both star formation quenching and triggering occur in ram
+pressure-stripped galaxies, depending on the strength of the winds. HI and
+H_2 in the outer galactic disk are significantly stripped in the presence
+of the moderate winds, whereas turbulent pressure provides support against
+ram pressure in the central region where star formation is active. Moderate
+ICM winds facilitate gas collapsing,  increasing the total star formation
+rates by ~40% when the wind is oriented face-on or ~80% when it is edge-on.
+In contrast, strong winds rapidly blow away neutral and molecular hydrogen
+gas from the galaxy, suppressing the star formation by a factor of two
+within ~200 Myr. Dense gas clumps with N_H >10 Msun/pc^2 are easily
+identified in extraplanar regions, but no significant young stellar
+populations are found in such clumps. In our attempts to enhance radiative
+cooling by adopting a colder ICM of T=10^6 K, only a few additional stars
+are formed in the tail region, even if the amount of newly cooled gas
+increases by an order of magnitude.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 131th >>
+
+2020. 9. 7 at 1:30 pm Monday / *Zoom* (https://zoom.us/j/4316792441)
+
+1. Recent research progress (Ena Choi, KIAS)
+
+2. Progress report: small-scale clustering analysis of GAMA galaxies using
+a cosmic emulator (Motonari Tonegawa, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 130th >>
+
+2020. 8. 24 at 1:30 pm Monday /* Zoom* (https://zoom.us/j/4316792441)
+
+1. Model-independent tests of the concordance model (Benjamin L'Huillier,
+Yonsei University)
+
+Despite great predictive power and its successes in the last decades, the
+concordance LCDM cosmological model suffers from both observational and
+theoretical issues. On the theoretical side, while a dark energy component
+is needed to explain the late-time acceleration of the Universe, its nature
+is unknown, and the value of the cosmological constant has to be fine
+tuned. On the observational side, tensions between cosmic microwave
+background and late Universe measurements (H0, sigma8) are getting
+increasingly hard to alleviate.
+Therefore, it is important to further test the model. Falsification is an
+important concept, and can possibly lead to paradigm changes.  In this
+talk, I will focus on model-independent tests of different aspects of the
+concordance model such as the curvature, the metric, or gravity, in an
+attempt to falsify it using state-of-the-art cosmological data: type Ia
+supernovae, baryon acoustic oscillations, and redshift-space distortion. In
+particular, I will focus on model-independent methods such as iterative
+smoothing, Gaussian process regression, or crossing statistics, which are a
+powerful tool for model falsification. While having less constraining power
+than model-dependent approaches, they have more flexibility, are not biased
+towards a certain model, and can lead to the detection of unexpected
+features or reveal the presence of systematics in the data.
+
+2. Recent Research Progress (Junsup Shim, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 129th >>
+
+2020. 7. 20 at 1:30 pm Monday / #1503 or Zoom (https://zoom.us/j/4316792441)
+
+1. Deep-Learning Study of the 21-cm Differential Brightness Temperature
+During the Epoch of Reionization (Sungwook E. Hong, UoS)
+
++ LOC Meeting for the Structure Formation Workshop on November
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 128th >>
+
+2020. 6. 29 at 1:30 pm Monday / #1503 or Zoom (https://zoom.us/j/4316792441)
+
+1. Testing (statements from) string theory using late-time cosmology (Eoin
+O Colgain, APCTP)
+
+Abstract: String theorists have made some recent bold conjectures, arguably
+the most controversial of which precludes de Sitter vacua. Naturally, this
+is at odds with the current cosmological model, Lambda-CDM. In this talk, I
+will review observational evidence supporting the conjecture, i. e. a
+breakdown in Lambda-CDM, while demonstrating that the Quintessence models
+advocated by string theorists only exacerbate the tension in the Hubble
+CONSTANT. I will discuss the potential loopholes and set it as a
+non-trivial exercise to the audience to disprove string theory (even in a
+limited sense).
+
+2. Probing the cosmology in the low density regions of our universe (Fuyu
+Dong, KIAS)
+
+Abstract: Low density regions are less affected by the nonlinear structure
+formation and baryonic physics, so they are ideal places to probe the dark
+energy. In this talk I will introduce our new method to define the
+low-density-positions (LDPs) with galaxies. With the CFHTLenS shear
+catalogue, we study the stacked lensing signals around LDPs in observation,
+which are found to achieve very high S/N. These lensing signals are then
+used to make simple constraints on the dark energy model. Furthermore, in
+my most recent work we find that LDP is a very good large scale structure
+tracer. So we extend it to measure the ISW effect, which is indeed a very
+weak signal. With the DESI photometric galaxy catalogue and Planck
+temperature map, now we have successfully measured the ISW signals, which
+will provide independent cross-checks for existing tensions.
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 127th >>
+
+2020. 6. 15 at 1:30 pm Monday / #1503 or Zoom (https://zoom.us/j/4316792441)
+
+1. Progress Report (Hyunsung Jun, KIAS)
+
+2. Recent Progress on Galactic Structure (Yonghwi Kim, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 126th >>
+
+2020. 5. 25 at 1:30 pm Monday / #1503 or Zoom (https://zoom.us/j/4316792441)
+
+1. Progress Report (Yongmin Yoon, KIAS)
+
+2. Progress - HR5 galaxy/halo catalgoue (Jaehyun Lee, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 125th >>
+
+2020. 5. 11 at 1:30 pm Monday / #1503 or Zoom (https://zoom.us/j/4316792441)
+
+1. Inferring the astrophysics of cosmic dawn and reionization from 21-cm
+observations (Jaehong Park, KIAS)
+
+2. Recent Progress Report (Stephen Appleby, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 124th >>
+
+2020. 4. 27 at 1:30 pm Monday / online: Zoom
+
+1. Cosmological Information from the Small-scale Redshift  Space
+Distortions (Motonari Tonegawa, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 123th >>
+
+2020. 4. 13 at 1:30 pm Monday /  online: Skype/Zoom or offline: #1503
+
+1. Aspera: A SmallSat concept study for imaging warm/hot coronal gas in
+nearby galaxy halos (Haeun Chung, Steward Observatory/University of Arizona)
+
+2. Machine learning large scale structure and science with early DESI data
+(Cristiano Sabiu, KASI)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 122th >>
+
+2020. 3. 30 at 1:30 pm Monday / on Skype
+
+1. Simulations and mock observations of AGN and their hosts: the merger-AGN
+connection (Ena Choi, KIAS)
+
+2. Revealing the Local Dark Matter Map by Deep Learning (Sungwook E. Hong,
+UoS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 121th >>
+
+2020. 3. 16 at 1:30 pm Monday / on Skype
+
+1. Narrow Band Imaging Survey (Prof. Changbom Park, KIAS)
+
+2. Recent Progress Report (Junsup Shim, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 120th >>
+
+2020. 2. 3 at 1:30 pm Monday / Rm. 1423
+
+1. Numerical Study on the Evolution of the Spin of Late-Type Galaxies
+(Jeong-Sun Hwang)
+
+2. The significance of AGN feeding and feedback in obscured quasars
+(Hyunsung Jun)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 119th >>
+
+2020. 1. 20 at 1:30 pm Monday / Rm. 1423
+
+1. HIR4: cosmology from a simulated neutral hydrogen full sky using Horizon
+Run 4 (Jacobo Asorey, KASI)
+[Abstract] The distribution of cosmological neutral hydrogen will provide a
+new window into the large-scale structure of the Universe with the next
+generation of radio telescopes and surveys. The observation of this
+material, through 21cm line emission, will be confused by foreground
+emission in the same frequencies. Even after these foregrounds are removed,
+the reconstructed map may not exactly match the original cosmological
+signal, which will introduce systematic errors and offset into the measured
+correlations. In this paper, we simulate future surveys of neutral hydrogen
+using the Horizon Run 4 (HR4) cosmological N-body simulation. We generate
+HI intensity maps from the HR4 halo catalogue, and combine with foreground
+radio emission maps from the Global Sky Model, to create accurate
+simulations over the entire sky. We simulate the HI sky for the frequency
+range 700-800 MHz, matching the sensitivity of the Tianlai pathfinder. We
+test the accuracy of the fastICA, PCA and log-polynomial fitting foreground
+removal methods to recover the input cosmological angular power spectrum
+and measure the parameters. We show the effect of survey noise levels and
+beam sizes on the recovered the cosmological constraints. We find that
+while the reconstruction removes power from the cosmological 21cm
+distribution on large-scales, we can correct for this and recover the input
+parameters in the noise-free case. However, the effect of noise and beam
+size of the Tianlai pathfinder prevents accurate recovery of the
+cosmological parameters when using only intensity mapping information.
+
+2. Brief report about the HR5 simulation (Yonghwi Kim, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 118th >>
+
+2020. 1. 6 at 1:30 pm Monday / Rm. 1423
+
+1. Cosmological parameter estimation using the genus amplitude (Stephen
+Appleby, KIAS)
+
+2. Galaxy Color and Structure Dependence of the Scatter in the Fundamental
+Plane of Early-type Galaxies (Yongmin Yoon, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 117th >>
+
+2019. 12. 10 at 1:30 pm Tuesday / Rm. 1424
+
+1. Progress report (Sungwook E. Hong, University of Seoul)
+
+2. Current status of new HR5 runs (Jaehyun Lee, KIAS)
+
+
+**********************************************************************
+A Special KDESci Group Seminar
+**********************************************************************
+
+Date & Place: 12:30pm Dec. 4 (Wednesday), 2019. Room #1424
+
+Speaker: Alexandre Lazarian (Univ. of Wisconsin, Madison)
+
+Title: New technique to trace the magnetic field: gradients
+
+Abstract: I shall introduce a new technique of magnetic field studies that
+employs the advances of the theory of MHD turbulence and magnetic
+reconnection. This is the gradient technique that is subdivided into
+velocity gradients, synchrotron intensity gradients and synchrotron
+polarization gradients. These techniques provide unique opportunities to
+explore the 3D structure of magnetic field and also predict the foreground
+polarization. I shall discuss observational results obtained with the
+techniques.
+
+
+**********************************************************************
+A Special KDESci Group Seminar
+**********************************************************************
+
+Date & Place: 1:30pm Nov. 28 (Thursday), 2019. Room #8309
+
+Speaker: Karim Benabed (IAP)
+
+Title: The Planck Legacy Results
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 116th >>
+
+2019. 11. 27 at 1:30 pm Wednesday / Rm. 1423
+
+1. Studying the morphology of the HI field during reionization using
+Minkowski functionals, Shapefinders and percolation analysis (Satadru Bag,
+KASI)
+Abstract: The morphology of a surface can be well studied by the four
+Minkowski functionals (MFs). MFs contain information from all higher order
+correlation functions and, therefore, can complement the traditional
+N-point correlation statistics. The importance of MFs in analysing
+large-scale structure datasets is increasing rapidly with recent advances
+in observation and simulation. The Shapefinders are the ratios of these MFs
+and assess the three physical dimensions of a cluster/void. Similar to the
+large-scale structure of the universe, the reionization landscape is also
+very rich in geometrical properties which can be feasibly probed by MFs and
+Shapefinders. We explored the topology and morphology of simulated HI
+fields using 3D MFs and Shapefinders during the Epoch of Reionization
+(EoR). Using the advanced code SURFGEN2, we studied the shapes of the HI
+isodensity surfaces, together with the percolation process, at different
+stages of reionization. In this talk, I will briefly explain our novel
+approach and the results revealing some interesting geometrical features of
+the HI field during EoR. We are ambitious that our results, based on the
+simulations, can be compared with that of future observations using the
+upcoming low-frequency radio interferometers, such as the Square Kilometre
+Array (SKA).
+
+2. Does dark matter interact with dark energy? (Jiajun Zhang, IBS)
+Abstract: In the standard cosmological model, LCDM model, dark matter and
+dark energy are the most abundant two components of the universe. However,
+we almost know nothing about the nature of these dark sectors. A natural
+question can be raised, do these two components have some interaction
+beyond gravity? After many years of effort, we can finally answer this
+question, making full use of all the current observations, which has never
+been done before. We conclude that the LCDM model is still favored by our
+analysis. We also disclose the possibility to look for smoking guns of dark
+matter dark energy interaction.  In this talk, I will introduce how we
+model such interaction, how we do simulations and how we use weak lensing
+to test it. I will also introduce how to use the newly developed ME-Gadget
+code to perform non-standard cosmological model N-body simulations, such as
+modified gravity.
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 115th >>
+
+2019. 11. 11 at 1:30 pm Monday / Rm. 1423
+
+1. Sizes of voids in adhesion model (theory) (Dmitiri Pogosyan, University
+of Alberta)
+
+2. The current status of new HR5 runs (Jaehyun Lee, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 114th >>
+
+2019. 10. 28 at 12:30 pm Monday at KASI
+
+1. Motonari Tonegawa (KIAS)
+2. Junsup Shim (KIAS)
+3. Mojtaba Raouf (KASI)
+4. Hyunmi Song (KASI)
+5. Satadru Bag (KASI)
+6. Ryan Keeley (KASI)
+7. Feng Shi (KASI)
+8. Jurgen Mifsud (KASI)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 113th >>
+
+2019. 9. 30 at 1:00 pm Monday / Rm. 1423
+
+1. The physics and consequences of AGN-driven winds in hydrodynamical
+simulations (Ena Choi, KIAS)
+
+2. Comparing distance measurements obtained from galaxy scaling-relations
+with the help of group catalogues (Christoph Saulder, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 112th >>
+
+2019. 9. 16 at 2:00 pm Monday / Rm. 1423
+
+1. Progress report: Momentum field and information extraction from the
+shape of excursion sets (Stephen Appleby, KIAS)
+
+2. Environments of Galaxies and Their Effects on Galaxy Properties (Yongmin
+Yoon, KIAS)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 111th >>
+
+2019. 9. 2 at 1:30 pm Monday / Rm. 1424
+
+1. Progress Report: Matter Density Distribution Reconstruction of Local
+Universe with Deep Learning (Sungwook E. Hong, University of Seoul)
+
+2. Parameter Survey for the HINT LCDM (Yonghwi Kim)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 110th >>
+
+2019. 7. 8 at 1:30 pm Monday / Rm. 1424
+
+1. Revisiting Metastable DE and tensions in the estimation of Cosmological
+parameters (Xiaolei Li)
+
+2. The large scale volume-weighted velocity bias of halos and galaxies (Yi
+Zheng)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 109th >>
+
+2019. 6. 25  at 1:30 pm Tuesday / Rm. 7323
+
+1. Dynamical Properties of Nearby Galaxies and Their Environmental
+Dependence (Haeun Chung)
+
+2. Searching for protoclusters in HR5 (Jaehyun Lee)
+
+3. Parameter Survey for HR5 (Yonghwi Kim)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 108th >>
+
+2019. 6. 10  at 1:30 pm Monday / Rm. 1424
+
+1. Identifying cosmic voids as the antipode of clusters (Junsup Shim)
+
+2. Cosmological information from the small-scale galaxy clustering
+(Motonari Tonegawa)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 107th >>
+
+2019. 5. 27  at 1:30 pm Monday / Rm. 1424
+
+1. Efficient parallel algorithm for estimating higher-order polyspectra
+(Donghui Jeong, PSU)
+
+Abstract: Nonlinearities in the gravitational evolution, galaxy bias, and
+redshift-space distortion drive the observed galaxy density fields away
+from the initial near-Gaussian states. Exploiting such a non-Gaussian
+galaxy density field requires measuring higher-order correlation functions,
+or, its Fourier counterpart, polyspectra. Here, we present an efficient
+parallel algorithm for estimating higher-order polyspectra. Based upon the
+Scoccimarro estimator, the estimator avoids direct sampling of polygons by
+using the Fast-Fourier Transform (FFT), and the parallelization overcomes
+the large memory requirement of the original estimator. In particular, we
+design the memory layout to minimize the inter-CPU communications, which
+excels in the code performance.
+
+2. Spectral classification and ionized gas outflows in Hot Dust Obscured
+Galaxies (Hyunsung Jun)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 106th >>
+
+2019. 5. 13  at 1:30 pm Monday / Rm. 1424
+
+1. Applications for early-type galaxies: fundamental plane distances and
+dark matter deprived objects (Christoph Saulder)
+
+2. Radiation hydrodynamic simulations of ram pressure stripping on
+star-forming galaxies (Jaehyun Lee)
+
+
+***************************************
+A Special KDESci Group Seminar
+***************************************
+
+Date & Place: 1:30pm May 2nd (Thursday), 2019. Room #8309
+
+Speaker: Pravabati Chingangbam (IIA)
+
+Title: Effect of lensing on the morphology of CMB fields
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 105th >>
+
+2019. 4. 29  at 1:30 pm Monday / Rm. 1424
+
+1. Are redshift-space distortions actually a probe of growth of structure?
+(Kimura Rampei, Waseda Institute for Advanced Study, Waseda University)
+
+Abstract: Although multiple cosmological observations indicate the
+existence of dark matter and dark energy, cosmological tests of
+interactions between them have not yet been established. We point out that,
+in the presence of a coupling between dark matter and dark energy, a
+peculiar velocity of total matter field is determined not only by a
+logarithmic time-derivative of its density perturbation but also by density
+perturbations for both dark matter and baryonic matter, leading to a large
+modification of the physical interpretation of observed data obtained by
+measurements of redshift-space distortions. We reformulate a galaxy
+two-point correlation function in the redshift space based on the modified
+continuity and Euler equations. We conclude from the resultant formula that
+redshift space distortions provide us information on the coupling between
+dark matter and the scalar field by combining weak lensing measurements. We
+will also discuss future prospects of constraining specific models using
+future surveys
+
+2. Topological Shape of the Cosmic Large-scale Structure (Inkyu Park,
+University of Seoul))
+
+Abstract: We propose a set of new topological variables that can be used to
+characterize the large scale structure of the universe. The MGS
+(Mul-Guisin) algorithm was first introduced in the LHC experiment as a jet
+finder software. The algorithm creates particle clusters by grouping tracks
+that are close to each other with a certain distance measure. It is quite
+similar to the MST (Minimal Spanning Tree) that is popularly used in
+Astronomy, but the way of clustering particles is different and thus yields
+different shapes of the clusters. In this presentation we describe how the
+algorithm works in detail and introduce some topological variables that
+make differences in the SDSS observation data and the HR4 simulation data.
+We expect that the MGS variables can give a new angle to study the large
+scale structure of the universe along with the two-point correlation
+function and the MST.
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 104th >>
+
+2019. 4. 15  at 11:00 am Monday / Rm. 1424
+
+1. Forecasting special events in cosmic history through the coalescence of
+critical points in the multi-scale landscape (Christophe Pichon)
+
+
+=============================================
+<< KIAS Dark Energy Science Group Meeting 103rd >>
+
+2019. 4. 1  at 1:30 pm Monday / Rm. 1424
+
+1. Probing Cosmology with HIRAX (Martin Bucher, Université Paris 7/CNRS and
+University of KwaZulu-Natal)
+
+Abstract: Intensity mapping using the 21cm line promises to map out large
+volumes of the universe directly in three-dimensions at redshifts difficult
+to access using conventional surveys from the ground. HIRAX is a 1024-dish
+array to be deployed in the Karoo desert in South Africa next to the SKA
+site. HIRAX will map the 21cm emission over a large fraction of the
+southern sky from z=0.8 to 2.5. This survey will characterize the baryon
+acoustic oscillations in this redshift range, thus contributing new
+constraints regarding the nature of the dark energy. I will summarize this
+experiment and its advantages as well as outlining some of the challenges
+to be overcome. I will also discuss some of the other science that will be
+enabled by HIRAX such as understanding fast radio bursts and searching for
+new pulsars.
+
+2. Cosmological parameter estimation using the genus of large scale
+structure (Stephen Appleby)
+
+
+===============================================
+<< KIAS Dark Energy Science Group Meeting 102nd >>
+
+2018. 12. 10  at 1:30 pm Monday / Rm. 1424
+
+1. KROSS: The KMOS Redshift One Spectroscopic Survey (Martin Bureau, Oxford)
+
+Abstract: I will present results from the KMOS Redshift One
+Spectroscopic Survey (KROSS). Using the K-band Multi-object Spectrograph
+(KMOS) at the Very Large Telescope (VLT), KROSS has gathered
+integral-field data for ~800 star-forming galaxies at a redshift z~1,
+when the universe was roughly half its current age and forming the bulk
+of its stars. KROSS aims to study the spatially-resolved dynamics, star
+formation properties and metallicities of those middle-aged galaxies.
+First, I will quantify the dynamical state of the galaxies, thus
+constraining their likely mass growth mechanisms (e.g. mergers versus
+secular evolution), painting a picture of galaxies that are both
+gas-rich and highly turbulent. Second, I will describe the properties of
+the galaxies departing from the star formation main sequence, revealing
+that star formation in highly star-forming galaxies is also more
+concentrated and arises from lower metallicity gas. Third, I will
+present the observed and baryonic Tully-Fisher (luminosity - rotation
+velocity) relation, thus constraining the mass-to-light ratios and
+luminous+dark masses of the galaxies. Last, by degrading and analogously
+analysing integral-field data of hundreds of local galaxies from the
+Sydney-AAO Multi-object Integral-field Spectrograph (SAMI) survey, I
+will derive a comparison Tully-Fisher relation at z=0, thus constraining
+the luminous+dark mass growth of disk galaxies over the last 7 billions
+years. This unique comparison also highlights that the systematic
+effects associated with sample selection and analysis methods are as
+large as the effects expected from cosmological evolution, and thus that
+most other results can safely be ignored.
+
+2. Horizon Run 5 - an update (Owain Snaith)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 101st >>
+
+2018. 11. 26  at 1:30 pm Monday / Rm. 1424
+
+1. The SH0ES project: towards a 1% measurement of the Hubble constant
+(Lucas Macri, Texas A&M Univ.)
+
+2. Testing the physics of inflation with the search for the runnings of
+spectral index (Xiaolei Li, KIAS/KASI)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 100th >>
+
+2018. 10. 17-19 at Konjiam Resort
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 99th >>
+
+2018. 10. 8  at 1:30 pm Monday / Rm. 1424
+
+1. Spiral Structures in Disk Galaxies : An Approach based on the
+Density-Wave Theory (Yonghwi Kim)
+
+2. Cosmological Applications of Filamentary Structures (Junsup Shim)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 98th >>
+
+2018. 9. 3  at 1:30 pm Monday / Rm. 1424
+
+1. WFIRST High Latitude Survey and Synergies with Ground-based Surveys
+(Chen Heinrich, JPL)
+
+2. Small scale RSD effect from 1-halo term calculation of halo model (Yi
+Zheng)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 97th >>
+
+2018. 7. 23  at 1:30 pm Monday / Rm. 1424
+
+1. Progress Report: Understanding the RSD effect from the pairwise
+velocity PDF (Hyunbae Park, KASI)
+
+2. Predicting the Betti numbers (and dynamically canceling the vacuum
+energy) (Stephen Appleby)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 96th >>
+
+2018. 7. 9  at 1:30 pm Monday / Rm. 1424
+
+1. Formation of the first galaxies and their connection to dwarf
+galaxies in the Local Group (Myoungwon Jeon, Kyung Hee Univ.)
+
+2. Insights from the AGORA High-resolution Galaxy Simulations Comparison
+(Ji-hoon Kim, Seoul National Univ.)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 95th >>
+
+2018. 6. 25  at 1:30 pm Monday / Rm. 1424
+
+1. SAM in low resolution cosmological simulations (Jaehyun Lee, KIAS)
+
+2. The Galaxy Power Spectrum and Bispectrum in Redshift Space (Donghui
+Jeong, Penn State Univ.)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 94th >>
+
+2018. 6. 11  at 1:30 pm Monday / Rm. 1424
+
+1. Galactic Conformity and Structural properties of Low Surface
+Brightness Galaxies (Isha Pahwa, IUCAA/KIAS)
+
+2. Search for the Repeatability of Very-Large-Scale Structures
+(Clusters, Filaments, and Walls) in the Horizon Run 4 Simulation
+(Sungwook Hong, KASI)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 93rd >>
+
+2018. 5. 28  at 1:30 pm Monday / Rm. 1424
+
+1. Environmental Dependence of Galaxy Spin in SDSS/MaNGA (Ho Seong Hwang)
+
+2. Rotation Curves of SDSS-IV MaNGA Galaxies and their Mass and
+Environmental Dependence (Haeun Chung)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 92nd >>
+
+2018. 4. 30  at 1:30 pm Monday / Rm. 1424
+
+1. Big Data Astronomy : Let's PySpark the Universe (Sungryong Hong)
+
+2. Modeling redshift space distortions with pairwise velocity
+distribution functions (Motonari Tonegawa)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 91st >>
+
+2018. 4. 16  at 1:30 pm Monday / Rm. 1424
+
+1. Reaching beyond the classical fundamental plane with large-scale
+surveys (Christoph Saulder)
+
+2. Ionized gas outflows in z~2 WISE-selected Hot Dust Obscured Galaxies
+(Hyunsung Jun)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 90th >>
+
+2018. 3. 19  at 1:30 pm Monday / Rm. 1424
+
+1. The MESSIER surveyor: lifting the veil on the ultra-low surface
+brightness universe (David Valls-Gabaud, CNRS/Observatoire de Paris)
+
+2. What is Nature Astronomy and how do I get published in it?
+(Marios Karouzos, Nature Astronomy)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 89th >>
+
+2018. 3. 5  at 1:30 pm Monday / Rm. 1424
+
+1. Progress report: Galaxies in simulations and observations (Owain Snaith)
+
+2. Accurate determination of halo velocity bias in simulations and its
+cosmological applications (Yi Zheng)
+
+============================================
+<< KIAS Dark Energy Science Group Meeting 88th >>
+
+2018. 2. 12  at 1:30 pm Monday / Rm. 1424
+
+1. Minkowksi Tensors in three dimensions as a probe of redshift space
+distortion
+(Stephen Appleby)
+
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 87th >>
+
+2018. 1. 29  at 1:30 pm Monday / Rm. 1423
+
+1. The JCMT - a tool for extragalactic studies (Harriet Parsons, East
+Asian Observatory)
+
+2. Wobbling galaxy spin axes in dense environments (Jaehyun Lee, KIAS)
+
+
+=================================================
+<< KIAS Dark Energy Science Group Meeting 86th >>
+
+2017. 12. 11  at 1:30 pm Monday / Rm. 1424
+
+1. Motions on Different Scales (Christoph Saulder, KIAS)
+
+2. Small-scale Features of Thermal Inflation: CMB Distortion,
+Substructure Abundance and 21cm Power Spectrum (Sungwook Hong, KASI)
+
+Abstract: Thermal inflation is an additional inflationary mechanism
+before the big bang nucleosynthesis, which solves the moduli problem and
+naturally provides a plausible dark matter candidate. Thermal inflation
+leaves a slight enhancement followed by huge suppression of a factor of
+~50 in the curvature and matter power spectrum, which can be expressed
+in terms of a single characteristic scale k_b. Here we describe the
+observability of the small-scale features of thermal inflation from
+various observations, such as CMB distortion, satellite galaxy abundance
+in the Milky-Way-sized galaxies, and 21-cm power spectrum before the
+epoch of reionization.
+
+3. Study of CMB low-l anomalies (Pranati Rath, Institute of High Energy
+Physics, Chinese Academy of Sciences)
+
+Abstract : The Cosmic Microwave Background Radiation (CMBR) is
+considered to be one of the best experimental data supporting the
+cosmological principle which states that the Universe is homogeneous and
+isotropic on large distance scales. In recent years, considerable
+evidence has accumulated in the CMBR data suggesting the violation of
+the cosmological principle.
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 85th >>
+
+2017. 12. 4  at 1:30 pm Monday / Rm. 1423
+
+1. Modelling stellar feedback in galaxy formation simulations: where do
+we stand? (Taysun Kimm, Yonsei)
+
+2. It takes two to tango: Competitive alignments of satellites with
+their inner halo and their central galaxy (Charlotte Welker, UWA)
+
+===================================================
+<< KIAS Dark Energy Science Group Meeting 84th >>
+
+2017. 11. 27  at 1:30 pm Monday / Rm. 1424
+
+1. Minkowski Tensors as a probe of the Epoch of Reionization (Akanksha
+Kapahtia, IIA, India)
+
+2. Hemispherical power asymmetry in polarization maps from PLANCK (Pavan
+Kumar Aluri, KIAS)
+
+3. Evaluating cosmological tensions using posterior predictions (David
+Parkinson, KASI)
+Galaxy
+
+[Title] Minkowski Tensors as a probe of the Epoch of Reionization
+(Akanksha Kapahtia)
+[Abstract] We use morphological descriptors called Minkowski
+Tensors(MTs) to study different cosmological fields affecting the
+brightness temperature of the 21cm transition, during the Epoch of
+Reionization (EoR). For this purpose we generated the 21cm brightness
+temperature field from the publicly available semi-numerical code
+21cmFAST. We study the redshift evolution of two of the MTs which
+encapsulate the shape and alignment information of structures indicating
+the growth of ionized regions and timeline of EoR.
+
+[Title] Evaluating cosmological tensions using posterior predictions
+(David Parkinson)
+[Abstract] In cosmology, as in other areas of astrophysics, we are
+constrained to make observations of unrepeatable events (such as the Big
+Bang), and so have to proceed by statistical inference. The Bayesian
+approach involves treating models and parameters similarly to data, as
+unknown variables with their own underlying probability distributions.
+However, as data from cosmological observables increases in constraining
+power, the opportunity arises for tensions between the different data
+sets, where one dataset does not lie in the high probability region of
+that predicted by another, given some model. These tensions can be
+generated either by an insufficient model, and so indicates the presence
+of new physics, by undiagnosed systematic errors, or simply by random
+statistical chance. Almost all of these tensions have been evaluated in
+terms of the probability distribution of parameters, whereas they are
+truly questions about the probability of data, and should be considered
+using the prior and posterior predictive distribution. In my talk I
+discuss different methods for diagnosing tensions, and show how these
+have been applied to the observed parameter tensions between different
+cosmological datasets, such as the cosmic microwave background dat, and
+local measurements of the expansion rate and weak lensing shear power
+spectrum.
+
+
+
+<< KIAS Dark Energy Science Group Meeting 83rd >>
+
+2017. 11. 13  at 1:30 pm Monday / Rm. 1424
+
+1. Galaxy evolution in the metric of the Cosmic Web (Katarina Kraljic,
+Laboratoire d’Astrophysique de Marseille)
+
+The role of the cosmic web in shaping galaxy properties is investigated
+in the GAMA spectroscopic survey in the redshift range 0.03 < z < 0.25.
+The stellar mass, u − r dust corrected colour and specific star
+formation rate (sSFR) of galaxies are analysed as a function of their
+distances to the 3D cosmic web features, such as nodes, filaments and
+walls, as reconstructed by DisPerSE. Significant mass and type/colour
+gradients are found for the whole population, with more massive and/or
+passive galaxies being located closer to the filament and wall than
+their less massive and/or star-forming counterparts. Mass segregation
+persists among the star- forming population alone. The red fraction of
+galaxies increases when closing in on nodes, and on filaments regardless
+of the distance to nodes. Similarly, the star-forming population reddens
+(or lowers its sSFR) at fixed mass when closing in on filament, implying
+that some quenching takes place. These trends are also found in the
+state-of-the-art hydrodynamical simulation HORIZON-AGN. These results
+suggest that on top of stellar mass and large-scale density, the
+traceless component of the tides from the anisotropic large-scale
+environment also shapes galactic properties. An extension of excursion
+theory accounting for filamentary tides provides a qualitative
+explanation in terms of anisotropic assembly bias: at a given mass, the
+accretion rate varies with the orientation and distance to filaments. It
+also explains the absence of type/colour gradients in the data on
+smaller, non-linear scales.
+
+2. Progress report: Environmental Dependence of Galaxy Properties in the
+Framework of the Cosmic Web (Ho Seong Hwang, KIAS)
+
+
+===================================================
+<< KIAS Dark Energy Science Group Meeting 82nd >>
+
+2017. 10. 16  at 1:30 pm Monday / Rm. 1424
+
+1. Counts-in-cells statistics for large scale structure— from theory
+towards galaxy surveys (Cora Uhlemann, Cambridge)
+
+Abstract: I will describe how to follow the gravitational evolution of
+the cosmic large scale structure using counts-in-cells statistics. Based
+on the theory of large deviations, I will argue that spherical collapse
+dynamics can be used to predict the statistics of average densities in
+spherical cells. I will then compare analytical predictions for
+counts-in-cells statistics against state of the art dark matter
+simulations showing that they can access a mildly nonlinear regime
+beyond perturbative calculations. Finally, I will discuss its potential
+to constrain cosmology using future galaxy surveys by describing biased
+tracers and angular clustering.
+
+2. Dark matter halos assembly in the frame of the saddle points of the
+cosmic web (Corentin Cadiou, IAP)
+
+========================================
+<< KIAS Dark Energy Science Group Meeting 81st >>
+
+2017. 10. 16  at 1:30 pm Monday / Rm. 1424
+
+1. Network Cosmology : What can we learn from galaxy "Facebook"?
+(Sungryong Hoong)
+
+2. Intrinsic alignments of blue star-forming galaxies at z~1.4 (Motonari
+Tonegawa)
+
+=========================================
+<< KIAS Dark Energy Science Group Special Talk >>
+
+2017. 9. 4  at 1:30 pm Monday / Rm. 1424
+Speaker: Pravabati Chingangbam
+Title: Minkowski Tensors for cosmological fields
+
+Abstract:  We elucidate how Tensor Minkowski Functionals  for
+cosmological fields  encode information about the properties of the
+universe. We apply them to some examples of cosmological fields - the
+CMB temperature and polarization, and fields of the epoch of
+reionization, and demonstrate that they open up new ways of probing the
+cosmos.
+
+=========================================
+<< KIAS Dark Energy Science Group Meeting 80th >>
+
+2017. 8. 28  at 1:30 pm Monday / Rm. 1424
+
+1. ySAM, its applications, and model comparison (Jaehyun Lee)
+
+==========================================
+<< KIAS Dark Energy Science Group Meeting 79th >>
+
+2017. 8. 14  at 1:30 pm Monday / Rm. 1424
+
+1. Constraining the early Universe with the large-scale structure
+(Benjamin L'Huillier, KASI)
+
+2. Tests of statistical isotropy with CMB (Pavan Kumar Aluri, KIAS/KASI)
+
+3. Redshift space distortion modelling and marked correlation function
+for probing modified gravity (Yi Zheng)
+
+==========================================
+<< KIAS Dark Energy Science Group Meeting 78th >>
+
+2017. 7. 3  at 1:30 pm Monday / Rm. 1424
+
+1. AGN Variability and Environment as Tracers of Galaxy Evolution and
+Cosmology (Hyunsung Jun)
+
+================================================
+<< KIAS Dark Energy Science Group Meeting 77th >>
+
+2017. 6. 12  at 1:30 pm Monday / Rm. 1424
+
+1. Progress report: cosmology with small-scale redshift space
+distortions (Motonari Tonegawa)
+
+2. Final report: Satellites of Isolated Elliptical Galaxies (Changbom Park)
+
+
+===================================================
+<< KIAS Dark Energy Science Group Meeting 76th >>
+
+2017. 5. 29  at 1:30 pm Monday / Rm. 1424
+
+1. Velocity rotation curve measurement of SDSS-IV MaNGA galaxies II
+(Haeun Chung)
+
+2. Topology in 1D (Graziano Rossi, Sejong)
+
+3. Dynamical dark energy constraints from novel Alcock-Paczynski test
+(Xiao-dong Li)
+
+===================================================
+
+<< KIAS Dark Energy Science Group Meeting 75th >>
+
+2017. 5. 15  at 1:30 pm Monday / Rm. 1424
+
+1. Star Formation Activity of Barred Spiral Galaxies (Ho Seong Hwang)
+
+2. Rotating galaxy cluster Abell 2107 -- measurement of rotation
+velocity and its implication on mass estimation (Hyunmi Song)
+
+3. Velocity rotation curve measurement of SDSS-IV MaNGA galaxies (Haeun
+Chung)
+
+=================================================
+<< KIAS Dark Energy Science Group Meeting 74th >>
+
+2017. 4. 24  at 1:30 pm Monday / Rm. 1424
+
+1. Improvement of WISE galaxy selection and dipole measurement in galaxy
+number count (Mijin Yoon, Yonsei)
+
+2. Non-linear two-point correlation function from N-body simulations: a
+progress report (Hyunbae Park, KASI)
+
+
+**********************
+A Special KDES seminar
+**********************
+
+Date & Location: 13:30 pm Apr. 6, 2017. Room 1423
+
+Title: Could a low-mass classical bulge survive in the Milky Way?
+
+Speaker: Kanak Saha (IUCAA)
+
+Abstract: COBE/DIRBE satellite revealed that the central region of our
+Milky Way hosts a boxy shaped bulge rather than a spheroidal one.
+A number of evidences have established that the Millky Way also hosts a
+stellar bar in the disk mid-plane and the boxy-bulge is thought to have
+formed as a result of buckling instability of the bar. N-body modelling
+of the kinematic data from recently completed surveys such as BRAVA, VVV
+etc., indicates that our Milky Way is a pure disk galaxy without a
+classical bulge.
+However, stellar population and metallicity gradients in the bulge do
+not rule out the possible existence of a classical bulge. After giving a
+brief overview of the current status of the Milky Way's bulge, I will
+discuss some new results that might shed some new light on this ongoing
+debate.
+
+
+=============================================
+
+<< KIAS Dark Energy Science Group Meeting 73rd >>
+
+2017. 3. 27  at 1:30 pm Monday / Rm. 1424
+
+1. Simulations of the High-speed Multiple Interaction of a Late-type
+Galaxy with Early-type Galaxies (Jeong-Sun Hwang)
+
+2. Cosmological Power Spectrum of Gas in RAMSES (Owain Snaith)
+
+
+==================================================
+
+<< KIAS Dark Energy Science Group Meeting 72nd >>
+
+2017. 3. 13  at 1:30 pm Monday / Rm. 1424
+
+1. Can we observe general relativistic signals near the horizon? (Sang
+Gyu Biern, University of Zurich)
+
+2. AGN outflows and their impact on host galaxies (Hyun-Jin Bae, Yonsei
+University)
+
+Abstract: Energetic gas outflows from active galactic nuclei (AGNs) are
+often considered as agents of negative feedback to the interstellar
+medium of host galaxies. Such ‘AGN feedback’ may lead tight
+observational scaling relations between black holes and their host
+galaxies. In this talk, first, I will present the results from our
+statistical studies of the ionized gas outflows of type 2 AGNs selected
+from the Sloan Digital Sky Survey (e.g., Bae & Woo 2014) and compare
+with the results from their neutral gas kinematics. Second, I will
+present 3D biconical outflow models for constraining the observed
+kinematics of AGN outflows (Bae & Woo 2016). Third, I will present the
+spatially resolved kinematics of 20 AGNs with strong signatures of
+outflows, and their impact on the host galaxies (Bae et al. 2017). Last,
+I will present the implications of the AGN studies and possible
+connections to ongoing projects at KIAS Astrophysics group for future
+studies.
+
+==============================================
+
+<< KIAS Dark Energy Science Group Meeting 71st >>
+
+2017. 2. 27  at 1:30 pm Monday / Rm. 1424
+
+1. Progress report - Using Minkowski Functionals to probe cosmology
+(Stephen Appleby)
+
+2. Progress report: preparation for the next generation of Horizon Run,
+HR5 (Jihye Shin)
+
+
+================================================
+
+<< KIAS Dark Energy Science Group Meeting 70th >>
+
+2017. 2. 13  at 1:30 pm Monday / Rm. 1423
+
+1. Evolution of Cosmic Voids (Ho Seong Hwang)
+
+2. A redshift survey of the nearby galaxy cluster Abell 2199:
+Comparison of the spatial and kinematic distributions of galaxies with
+the intracluster medium (Hyunmi Song)
+
+================================================
+
+<< KIAS Dark Energy Science Group Meeting 69th >>
+
+2017. 1. 23  at 1:30 pm Monday / Rm. 1424
+
+1. In and out star formation in z>1.5 quiescent galaxies and the
+implications for quenching (Raphael Gobat)
+
+2. Development status of Devasthal Optical Telescope Integral Field
+Spectrograph (DOTIFS) - Progress Report (Haeun Chung)
+
+3. Measuring the redshift dependence of volume effect: galaxy angular
+correlation function (Xiao-dong Li)
+
+
+====================================================
+
+<< KIAS Dark Energy Science Group Meeting 68th >>
+
+2016. 12. 5  at 1:30 pm Monday / Rm. 1424
+
+1. Formation and assembly history of stellar components in galaxies as a
+function of stellar and halo mass (Jaehyun Lee, KASI)
+
+2. Network Community Detection: Finding Lagrangian Coherent Structures
+in Fluid & Review on Cosmic Web Analysis (Sang Hoon Lee, KIAS)
+
+
+==================================================
+<< KIAS Dark Energy Science Group Meeting 67th >>
+
+2016. 11. 21  at 1:30 pm Monday / Rm. 1424
+
+[Presentations]
+
+1. Galaxy properties within cosmic web filaments (Clotilde Laigle, IAP)
+
+2. Satellite systems of early-type galaxies (Changbom Park)
+
+====================================================
+<< KIAS Dark Energy Science Group Meeting 66th >>
+
+2016. 11. 7  at 1:00 pm Monday / Rm. 1423
+
+[Presentations]
+
+1. Different density scales at Tartu Observatory (Antti Tamm, Tartu)
+
+2. TBA (Nelson Padilla, U. Catolica de Chile)
+
+3. Testing Dark Matter and Dark Energy: from the Local Group to the
+Local Universe (Wojciech Hellwing, Portsmouth, UK)
+
+4. Legend of the sphere world (Maret Einasto, Tartu)
+
+5. Barred galaxies (Bernardo Cervantes Sodi)
+
+=================================================
+<< KIAS Dark Energy Science Group Meeting 65th >>
+
+2016. 10. 17  at 1:30 pm Monday / Rm. 1424
+
+[Presentations]
+
+1. The cosmic evolution of critical sets in real and redshift space to
+probe dark energy (Christophe Pichon, IAP)
+
+2. Introducing tensor Minkowski Functionals for cosmological use:
+application to the CMB (Pravabati Chingangbam, IIA)
+
+Abstract: Tensor Minkowski Functionals (TMF) are tensor generalizations
+of the usual scalar Minkowski Functionals. They carry shape and
+alignment  information for a given set of structures, which their scalar
+counterparts are unable to capture. In this seminar we introduce TMFs
+for application to cosmological datasets, particularly the CMB.
+
+
+=================================================
+<< KIAS Dark Energy Science Group Meeting 64th >>
+
+2016. 9. 20  at 1:30 pm Tuesday / Rm. 1424
+
+[Presentations]
+
+1. Black hole growth in extremely massive quasars at z=1-6 (Hyunsung
+Jun, CalTech)
+
+=================================================
+<< KIAS Dark Energy Science Group Meeting 63rd >>
+
+2016. 9. 5  at 1:30 pm Monday / Rm. 1424
+
+[Presentations]
+
+1. Gauge-Invariance and Infrared Divergences in the Luminosity Distance
+(Sanggyu Biern, Zurich)
+
+2. The effect of refinement on the cosmological power spectrum in the
+RAMSES adaptive mesh refinement code (Owain Snaith)
+
+
+=================================================
+<< KIAS Dark Energy Science Group Meeting 62nd >>
+
+2016. 8. 23  at 2:00 pm Tuesday / Rm. 8406 [Presentations]
+
+1. Problems of multipoles in BOSS DR12 (Seokcheon Lee)
+
+2. QSOs in the fields of Galaxy Clusters and Molecular Gas Content of
+Star-forming Early-Type Galaxies (Fadia Salmi)
+
+=================================================
+<< KIAS Dark Energy Science Group Meeting 61st >>
+
+2016. 7. 11  at 2:00 pm Monday / Rm. 102, LWC Hall, KASI
+
+[Presentations]
+
+1. Model-independent test of the FLRW metric, the flatness of the
+Universe, and non-local measurement of H0 - Benjamin L’Huillier (KASI)
+
+2. BAO at 3rd order in the galaxy clustering using DR12 BOSS – Cristiano
+Sabiu (KASI)
+
+3. Summary of DESI 2016 Collaboration Meeting in Durham – Ho Seong Hwang
+(KIAS)
+
+4. DESI: Clustering working group and Quasar target selection - Hyunmi
+Song (KIAS)
+
+5. Development of Devasthal Optical Telescope Integral Field
+Spectrograph (DOTIFS): Introduction and Progress Report - Haeun Chung
+(SNU/KIAS)
+
+6. Constraints on modified gravity using the anisotropy clustering -
+Yong-Seon Song (KASI)
+
+7. The shape of the outskirts of dark matter halos in cosmological
+simulations.  – Owain Snaith (KIAS)
+
+
+========================
+A Special KDESci Seminar
+Speaker: Kin-Wang Ng (Academia Sinica, Taiwan)
+Place: seminar room 8406
+Date & Time: 14:00 on June 29 (Wednesday)
+Title: Probing cosmic birefringence by CMB
+
+=================================================
+<< KIAS Dark Energy Science Group Meeting 61st >>
+
+2016. 6. 27  at 1:30 pm Monday / KIAS 1424
+
+[Presentations]
+
+1. The theory of large-scale galaxy bias (Donghui Jeong, Penn State)
+
+2. CMB parity asymmetry and gravitational waves (Cheng Cheng, ITP, Beijing)
+
+
+=========================
+A Special KDESci Seminar
+Speaker: Reno Mandolesi (Univ. of Ferrara)
+Place: seminar room 8406
+Date & Time: 13:30 on June 1 (Wednesday)
+Title: From Planck to Core+
+
+Abstract
+Planck brings the ultimate data set for CMB temperature anisotropies
+and, by all practical means, almost exhaust the information content of
+them. It is limited by cosmic variance on all modes of interest. No
+experiment will ever do better.  And it does much astrophysics as well.
+Not only: the polarized microwave sky was almost completely uncharted
+before Planck. By unveiling a tiny part of the weak CMB polarization
+modes with a S/N>1 Planck has opened a new observational channel for
+astrophysics and cosmology.
+But it is natural for the CMB community to aim also to the ultimate
+experiment in CMB polarization: a space mission called COrE+.
+COrE+ will have a huge impact on the primordial B modes, neutrino
+physics, lensing, foregrounds, cosmic magnetism, galactic and
+extragalactic polarized sources, dark energy, fundamental physics and
+much more.
+
+==========================================
+KIAS Dark Energy Science Group Meeting 59th
+
+2016. 5. 23  at 1:30 pm Monday / KIAS 1424 [Presentations]
+
+1. Cosmology with HETDEX (Hobby-Eberly Telescope Dark Energy eXperiment)
+(Donghui Jeong, Penn State)
+
+2. First step to implement quasar physics in a cosmological simulation
+(Hyunmi Song)
+
+==============================================
+KIAS Dark Energy Science Group Meeting 58th
+
+2016. 5. 2  at 1:30 pm Monday / KIAS 1424
+
+[Presentations]
+
+1. Study on the mapping of dark matter clustering from real space to
+redshift space (Li Zheng, KASI)
+
+2. Estimation of Cluster Mass Using Member Galaxies (Hyunbae Park, KASI)
+
+
+
+===========================================
+KIAS Dark Energy Science Group Meeting 57th
+
+2016. 3. 28  at 1:30 pm Monday / KIAS 1424
+
+[Presentations]
+
+1. Progress Report (Rapha Gobat)
+2. Alcock-Paczynski from BOSS DR12: Final Results (Xiao-dong Li)
+
+
+===========================================
+KIAS Dark Energy Science Group Meeting 56th
+
+2016. 3. 14  at 1:30 pm Monday / KIAS 1424
+
+[Presentations]
+
+1. Introduction to the Sunrise Radiative Transfer Code: making mock
+images from simulations (Owain Snaith)
+
+2. Progress report on the RAMSES (Jihye Shin)
+
+3. Progress report on the KIAS MMT Survey of galaxies (Ho Seong Hwang)
+
+==============================
+KIAS Dark Energy Science Group Meeting 55th 2016. 2. 29  at 2:00 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1. The Hydrodynamic Feedback of Cosmic Reionization on Small-Scale
+Structures and Its Impact on Photon Consumption during the Epoch of
+Reionization (Hyunbae Park, KASI)
+
+2. Minkowski functionals applied to large scale structures of the
+universe (Stephen Appleby)
+
+
+Title: The Hydrodynamic Feedback of Cosmic Reionization on Small-Scale
+Structures and Its Impact on Photon Consumption during the Epoch of
+Reionization
+Speaker: Hyunbae Park (KASI)
+Abstract:
+
+Density inhomogeneity in the intergalactic medium (IGM) on sub-Mpc
+scales can boost the recombination rate of ionized gas substantially,
+affecting the growth of H II regions during the Epoch of Reionization
+(EoR). Previous attempts to express this in terms of a clumping factor,
+C, typically failed to resolve the full range of mass scales which are
+important in establishing this effect, down to the Jeans scale in the
+pre-ionization IGM, along with the hydrodynamical back-reaction of
+reionization on it. Towards that end, we introduce GADGET-RT, a GADGET
+code with a new algorithm to transfer H-ionizing radiation, and perform
+a set of radiation-hydrodynamics simulations from cosmological initial
+conditions. We extend the mass resolution of previous work to the scale
+of minihalos, simulating sub-Mpc volumes. Pre-reionization structure is
+evolved until a redshift z_i at which the ionizing radiation from
+external sources arrives to sweep an R-type ionization front
+supersonically across the volume in a few Myr, until it is trapped on
+the surfaces of minihalos and converted to D-type. Small-scale density
+structures during this time lead to a high (C > 10) clumping factor for
+ionized gas. This high clumping factor hugely boosts the recombination
+rate until the structures are mostly disrupted by the hydrodynamic
+feedback after ~ 10 - 100  Myr. For incoming radiation with intensity
+J_21, a number of extra recombinations result per H atom, on top of what
+is expected from gas at the mean density, is given by 0.32 [J_21]^0.12
+[(1 + z_i)/11]^-1.7. In models in which most of the volume is ionized
+toward the end of reionization, this can add up to~ 0.7 per H atom to
+the ionizing photon budget to achieve reionization. Even more
+recombinations will result when full account is also taken of the matter
+density inhomogeneity on scales larger than that of our sub-Mpc
+simulation volumes.
+
+======================================
+KIAS Dark Energy Science Group Meeting 54th 2016. 2. 15  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+1. Supernova Remnant Cassiopeia A (Bon-Chul Koo, SNU)
+
+2. Joint analysis of observed and simulated lightcones (Clotilde Laigle,
+IAP)
+
+3. Self-Gravity, Resonances & Orbital Diffusion in Stellar discs
+(Jean-Baptiste Fouvry, IAP)
+
+======================================
+KIAS Dark Energy Science Group Meeting 53rd 2016. 1. 25  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+1. Probing  the mildly non-linear regime of structure formation  via the
+large deviation principle in spherical cells (Christophe Pichon, IAP)
+
+2. Chemical evolution in a simulated disc galaxy (Owain Snaith)
+
+=======================================
+KIAS Dark Energy Science Group Meeting 52nd 2016. 1. 11  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+1. Cosmological simulations: halo interactions and large scale structure
+(Benjamin L'Huillier)
+
+2. Concept Design of Fiber Array Optical Spectrograph (Sungwook Hong)
+
+=======================================
+
+KIAS Dark Energy Science Group Meeting 51th 2015. 12. 21  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+1. Recent numerical studies with hydrodynamic simulations (Jihye Shin)
+
+2. Large-scale Structures in HectoMAP and Horizon Run 4 (Ho Seong Hwang)
+
+Recent numerical studies with hydrodynamic simulations (Jihye Shin)
+
+I present four different recent studies that I am leading in these days.
+First, I introduce a novel photometric method that utilizes pixel
+intensity histograms of the observed images, which enable us to estimate
+amounts of unresolved, faint stars that are not identified by point
+spread function. Second, I present hydrodynamic simulations of gas
+clouds that inflowing from the disk to a few hundred parsec region of
+the Milky Way. For realistic Galactic structures, I apply a multipole
+expansion technique. Related with the multipole expansion, I introduce a
+simple numerical method that derives galactic bar strength from observed
+images. Third, I present merging tree and pruning algorithm  to
+construct a realistic sub-halo mass function. Last, I present a
+cosmological hydrodynamic simulation to trace formation/evolution of
+mini satellite halos around a dwarf galaxy. I find that number of
+merging events between mini halos may differs mini halo's properties,
+especially its star mass fraction and compactness.
+
+
+
+KIAS Dark Energy Science Group Meeting 50th 2015. 12. 7  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+1. A Little Introduction to Spatial Statistics : its usefulness learned
+from my failure (Hyunsook Lee, KISTEP)
+
+2. Instability Process of the Magnetized Gas in Spiral Galaxies (Yonghwi
+Kim, KIAA)
+
+* Speaker: Hyunsook Lee (KISTEP, a former statistician)
+* Title : A Little Introduction to Spatial Statistics : its usefulness
+learned from my failure
+* Abstract:
+When the Economists introduced Big Data in 2010, it accompanied an
+example from Astronomy. Since then, the linkage between astronomy and
+statistics, i.e. astronomical data science became more flourishing than
+when Gauss introduced the least square method to correctly predict Ceres
+reappearance more than 200 years ago. Although there have been great
+many discoveries and progresses by utilizing statistics in astrophysics,
+in this presentation, only my attempt on sketching spatial statistics
+from a statistician standpoint will be given with my own example that
+couldn’t see any lights. When I began to tackle this undisclosed example
+in the spring of 2002, spatial statistics is less known to the
+astronomical data science society and I dared to hope for my little
+contribution to the astrophysicists’ effort of shedding lights to the
+dark matter conundrum with the latest statistical techniques. This
+presentation is comprised in three parts: the first is a brief
+introduction to astrostatistics from personal experience; the second
+part introduces major fields in spatial statistics; the third part
+describes my personal efforts with methodologies from Spatial Point
+Pattern. As a conclusion, I’d like to share some practical resources of
+astrostatistics for astrophysicists.
+
+
+* Speaker: Yonghwi Kim (KIAA)
+* Title: Instability Process of the Magnetized Gas in Spiral Galaxies
+* Abstract:
+Gas in disk galaxies interacts nonlinearly with an underlying stellar
+spiral potential to form galactic spiral shocks. While numerical
+simulations typically show that spiral shocks are unstable to wiggle
+instability (WI) even in the absence of magnetic fields and
+self-gravity, its physical nature has remained uncertain. To clarify the
+mechanism behind the WI, we conduct a normal-mode linear stability
+analysis and nonlinear simulations assuming that the disk is isothermal
+and infinitesimally thin. We also investigate the effect of magnetic
+fields on the WI. We control the strengths of magnetic fields and
+spiral-arm forcing using the dimensionless parameters β and F,
+respectively. By solving the perturbation equations as a
+boundary-eigenvalue problem, we obtain dispersion relations of the WI
+for various values of β=1-100 and F=3, 5 and 10%. We find that the WI is
+physical, originating from the generation of potential vorticity at a
+deformed shock front, rather than Kelvin–Helmholtz instabilities as
+previously thought. The WI arising from the accumulation of potential
+vorticity at disturbed shocks is suppressed, albeit not completely, by
+magnetic fields. The stabilizing effect of magnetic fields is not from
+the perturbed fields but from the unperturbed fields that reduce the
+density compression factor in the background shocks. When  F=5% and β=10
+or F=10% and β∼5–10, the most unstable mode has a wavelength of ∼0.1–0.2
+times the arm-to-arm separation, which is found to be in good agreement
+with a mean spacing of observed feathers.
+
+
+==========================================================
+KIAS Dark Energy Science Group Meeting 49th 2015. 11. 2  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+1. Redshift Dependence of Alcock-Paczynski Test: Cosmological Constraint
+from BOSS DR12 (Xiao-Dong Li)
+
+2. Progress report on galaxy size evolution (Fadia Salmi)
+
+================================================
+KIAS Dark Energy Science Group Meeting 48th 2015. 10. 19  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+1. Systematics in cluster findings (Jeeseon Song, KASI)
+
+2. Probing black hole-galaxy coevolution and calibrating single-epoch
+virial black hole mass estimators (Daeseong Park, NAOC/KASI, EACOA fellow)
+
+
+===========================================
+KIAS Dark Energy Science Group Meeting 47th 2015. 10. 5  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1. Horizon Run 4 : Simulated Nonlinear Density Field (Juhan Kim)
+
+2. ISW and RS effect (new probe for dark energy)(Seokcheon Lee)
+
+==============================================
+KIAS Dark Energy Science Group Meeting 46th 2015. 9. 21  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+1. Simulating cold dark matter using an effective fluid description
+(Stephen Appleby)
+
+2. Metallicity and the evolution of galaxy habitability (Raphael Gobat)
+
+
+============================================
+KIAS Dark Energy Science Group Meeting 45th 2015. 9. 7  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+1. PLANCK data constraint on noncommutative spacetime (Prava
+Chingangbam, IIA, India)
+
+2. Data Science and Cosmology (Amir Aghamousa, APCTP)
+
+
+Title: PLANCK data constraint on noncommutative spacetime (Prava
+Chingangbam)
+Abstract:
+We constrain the energy scale of noncommutativity of spacetime using CMB
+data from PLANCK. We find that PLANCK data puts the lower bound on the
+noncommutativity energy scale to about 20 TeV, which is about a factor
+of 2 larger than a previous constraint that was obtained using data from
+WMAP. We further show that inclusion of data of $E$ mode of CMB
+polarization will not significantly change the constraint.
+
+Title: Data Science and Cosmology (Amir Aghamousa)
+Abstract: I will explain basic statistical concepts in statistics and
+gradually some statistical techniques for data inference. It will be
+started by an introduction to R and accompanied with several
+demonstrations. Then I will continue the data analysis in Cosmology by
+discussing some practical projects in Cosmology using introduced
+statistical tools.
+
+
+==============================================
+KIAS Dark Energy Science Group Meeting 44th 2015. 8. 24  at 4:00 pm
+Monday / KIAS 1424
+
+[Presentations]
+1. The Impact of Nonlinear Structure Formation on the Power Spectrum of
+Transverse Momentum Fluctuations and the Kinetic Sunyaev-Zel'dovich
+Effect (Hyunbae Park, Austin/KASI)
+
+2. Recent galaxy mergers and residual star formation of red sequence
+galaxies in galaxy clusters (Yun-Kyeong Sheen, Universidad de Concepcion)
+
+
+Title 1: The Impact of Nonlinear Structure Formation on the Power
+Spectrum of Transverse Momentum Fluctuations and the Kinetic
+Sunyaev-Zel'dovich Effect (Hyunbae Park, Austin/KASI)
+
+* Abstract: Cosmological transverse momentum fields, whose directions
+are perpendicular to Fourier wave vectors, induce temperature
+anisotropies in the cosmic microwave background via the kinetic
+Sunyaev-Zeldovich
+(kSZ) effect. The transverse momentum power spectrum contains the
+four-point function of density and velocity fields, <d d  v v>. In the
+post-reionization epoch, nonlinear effects dominate in the power
+spectrum. We use perturbation theory and cosmological N-body simulations
+to calculate this nonlinearity. We derive the next-to-leading order
+expression for the power spectrum with a particular emphasis on the
+connected term that has been ignored in the literature. While the
+contribution from the connected term on small scales (k>0.1 h/Mpc) is
+subdominant relative to the unconnected term, we find that its
+contribution to the kSZ power spectrum at l = 3000 at z<6 can be as
+large as ten percent of the unconnected term, which would reduce the
+allowed contribution from the reionization epoch (z>6) by twenty
+percent. The power spectrum of transverse momentum on large scales is
+expected to scale as k^2 as a consequence of momentum conservation. We
+show that both the leading and the next-to-leading order terms satisfy
+this scaling.
+
+Title 2: Recent galaxy mergers and residual star formation of red
+sequence galaxies in galaxy clusters (Yun-Kyeong Sheen, Universidad de
+Concepcion)
+
+* Abstract: We have explored GALEX UV properties of optical red sequence
+galaxies in 4 rich Abell clusters at z ≲ 0.1. In particular we tried to
+find a hint of merger-induced recent star formation (RSF) in the red
+sequence galaxies. RSF fractions are calculated with various criteria
+for post-merger galaxies and normal red sequence galaxies based on their
+NUV - r’ colors. In this study it turned out that only 30% of the RSF
+red sequence galaxies involve tidally-disturbed features in cluster
+environment. It is possible that we are missing minor merger features
+with the deep optical images from the less massive regime (-21 < Mr' <
+-20) of our volume-limited sample. However, considering the timescale
+difference for the fading out of morphological merger features (~ 4 Gyr)
+and young stellar populations (~ 1 Gyr), the fraction of RSF red
+sequence galaxies without disturbed features is still significantly
+large. We also confirmed that those featureless RSF galaxies are mostly
+bulge-dominated. This result may imply that gas accretion in early-type
+galaxies plays a significant role in residual star formation of the
+early-type galaxies.
+
+
+=========================================
+KIAS Dark Energy Science Group Meeting 43rd 2015. 7. 20  at 1:30 pm
+Tuesday / KIAS 1424
+
+[Presentations]
+1. Galaxy overdensity studies at SNU (Myungshin Im, SNU) 2. Galaxy
+clusters at z ~ 1 from IMS (Jaewoo Kim, SNU) 3. Introduction to Horizon
+Run 3 & 4 (Juhan Kim) 4. Mock Galaxy Catalogues from Horizon Run 4 using
+the Most Bound Particle–Galaxy Correspondence Model (Sungwook Hong)
+
+
+
+============================================
+KIAS Dark Energy Science Group Meeting 42nd 2015. 6. 8  at 1:30 pm
+Tuesday / KIAS 1424
+
+[Presentations]
+
+     1. Incorporating the South Pole Telescope into the Event Horizon
+Telescope (Junhan Kim, Univ. of Arizona)
+* Abstract: The Event Horizon Telescope (EHT) is a global Very Long
+Baseline Interferometry (VLBI) experiment to observe a black hole at the
+galactic center. The inclusion of the South Pole Telescope (SPT) will
+enhance the capability of EHT, increasing the baseline as long as the
+size of the Earth. This virtual Earth-size telescope will have the
+angular resolution to image the nearest supermassive black holes. I will
+give an overview of the EHT and introduce the development status of the
+SPT receiver for the EHT, including our deployment to the South Pole
+last winter.
+     2. Recent Star Formation of Early-type Galaxies on the Red Sequence
+(Ho Seong Hwang)
+     3. Introduction to SDSS-IV MaNGA survey and its prototype
+observation results - II (Haeun Chung)
+
+===============================
+
+KIAS Dark Energy Science Group Meeting 41st 2015. 5. 26  at 1:30 pm
+Tuesday / KIAS 1424
+
+[Presentations]
+
+     1. The ecology of dark matter haloes II: on the alignments of spins
+and shapes (Benjamin L'Huillier)
+     2. Correlation Function of CMASS North Galaxies and Mocks
+(Xiao-Dong Li)
+     3. Introduction to SDSS-IV MaNGA survey and its prototype
+observation results (Haeun Chung)
+
+===========================================
+KIAS Dark Energy Science Group Meeting 40th 2015. 5. 12  at 1:30 pm
+Tusday / Sejong University
+
+[Presentations]
+
+     1. Astronomy & Space Science at Sejong University (Young-Woon Kang,
+Sejong)
+     2-a. The new cosmology group at Sejong University (Graziano Rossi,
+Sejong)
+       -b. The Astrophysical Spectroscopy Lab at Sejong University
+(Jeong-Eun Heo, Sejong)
+       -c. Photometric Study of the Young Open Cluster NGC 2169 (Sang-Hun
+Lee, Sejong)
+      3. Measuring the expansion history from the anisotropic BAO signal
+(Chris Sabiu, KASI)
+      4. The ecology of dark matter haloes II: on the alignments of spins
+and shapes (Benjamin L'Huillier, KIAS)
+
+===========================================
+KIAS Dark Energy Science Group Meeting 39th 2015. 4. 27  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+     1. The effects of the cluster environment on dwarf galaxies
+         - ram pressure and harassment (Rory Smith, Yonsei)
+     2. Non-Uniqueness of Classical Inflationary Trajectories
+         on a High-Dimensional Landscape (Siyi Zhou, HKUST)
+
+Title: The effects of the cluster environment on dwarf galaxies - ram
+pressure and harassment
+
+Abstract
+Dwarf galaxies that are found in clusters of galaxies face a harsh
+environment. A multi-million kelvin ionised gas fills the cluster, and
+bathes the cluster galaxies. As cluster galaxies orbit through this gas,
+it exerts a 'ram pressure' that can strip away disk gas, and halt their
+star formation. Simultaneously the deep potential well of the cluster
+exerts powerful tidal forces, combined with repeated high speed
+encounters with other cluster galaxies. This effect, known as
+'harassment', can strip away dark matter and stars from a cluster
+galaxy. I will present my results of modelling the effects of ram
+pressure and harassment on dwarf galaxies using numerical simulations. I
+will demonstrate how ram pressure, often assumed to only affect the gas
+of a galaxy, can in fact significantly affect the stars - and even the
+dark matter - of dwarf galaxies. I will also show how harassment is
+surprisingly weak acting on cluster dwarfs, despite their very low
+masses, and that this is due to the orbits they typically have. Finally
+I will discuss how phase-diagrams may provide a powerful tool to
+understand both ram pressure and harassment in real galaxy clusters.
+
+==========================================
+KIAS Dark Energy Science Group Meeting 38th 2015. 4. 13  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+     1. Estimating the local K-band luminosity density
+        (Stephen Appleby, APCTP)
+     2. Radiation mechanism of GRB prompt emission and afterglow
+        (Z. Uhm, UNLV)
+
+=========================================
+KIAS Dark Energy Science Group Meeting 37th 2015. 3. 16  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     Constraining Dark Radiation and Neutrino Masses with Cosmological
+Probes (Graziano Rossi, Sejong)
+
+2.     K-correction for SDSS BOSS Galaxies (Hyunmi Song)
+
+3.     Progress report: Finger-of-God effects and 2pCF of HR4 Mock Galaxies
+(Sungwook Hong)
+
+
+
+
+
+==================================
+
+KIAS Dark Energy Science Group Meeting 36th 2015. 3. 2  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     Effects of Hot Halo Gas on the Star Formation and Mass Transfer
+
+During Distant Galaxy-Galaxy Encounters (Jeong-Sun Hwang)
+
+2.     Halo Interactions in the Horizon Run 4 (Benjamin L'Huillier)
+
+
+=========================================
+
+KIAS Dark Energy Science Group Meeting 35th 2015. 2. 16  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     All the Running You Can Do: Progress Report on z~2 Galaxies (Rapha
+Gobat)
+
+2.     A Progress Report on the HectoMAP Survey (Ho Seong Hwang)
+
+3.     Science Tradition in Korea (Yongsook Kim)
+
+
+
+
+
+=========================================
+
+KIAS Dark Energy Science Group Meeting 34th 2015. 1. 16  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     Galaxy Size Evolution (Fadia Salmi)
+
+2.     Horizon Run 4 for Probing into Formation of Galaxies and Large-scale
+Structures of the Universe (Juhan Kim)
+
+
+
+===================================
+
+KIAS Dark Energy Science Group Meeting 33rd 2014. 12. 8  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     Measuring Bias from Unbiased Observable (Seokcheon Lee)
+
+2.     Cosmological Constraints from Redshift Dependence of AP and Volume
+Effect:
+
+Galaxy 2-point Correlation Function  (Xiao-Dong Li)
+
+
+
+==============================
+
+KIAS Dark Energy Science Group Meeting 32nd 2014. 11. 24  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     A Galaxy Assignment Scheme using the Dark Matter Subhalo Merger Time
+Scale (Sungwook Hong)
+
+2.     Peculiar Velocity Decomposition and Redshift Space Distortion in
+Redshift Surveys (Zheng Yi, KASI)
+
+
+
+=================================
+
+KIAS Dark Energy Science Group Meeting 31th 2014. 11. 10  at 1:30 pm
+Monday / KIAS 1503
+
+[Presentations]
+
+1.     Cosmology in Tartu Observatory (Jaan Einasto, Tartu)
+
+2.     Cosmology in Tuorla Observatory (Pekka Heinämäki, Turku)
+
+3.     Bootstrapping Correlation Functions (Enn Saar, Tartu)
+
+4.     Active Galaxies in the Cosmic Web (Maret Einasto, Tartu)
+
+5.     A Hydrodynamical Mechanism for Generating Astrophysical Jets (Xavier
+Hernandez, UNAM)
+
+
+
+==================================
+
+KIAS Dark Energy Science Group Meeting 30th 2014. 10. 27  at 2:00 pm
+Monday / KIAS 1423
+
+[Presentations]
+
+1.     Beyond the Standard Model of Cosmology (Arman Shafieloo, APCTP)
+
+
+
+==================================
+
+KIAS Dark Energy Science Group Meeting 29th 2014. 10. 13  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     Cosmological Nonlinear Perturbation Theory (Hyerim Noh)
+
+2.     CMB Degeneracy between Dark Energy and Neutrino Number (Seokcheon
+Lee)
+
+3.     Cosmological Constraints from Redshift Dependence of Clustering
+Shells (Xiao-Dong Li)
+
+
+
+==================================
+
+KIAS Dark Energy Science Group Meeting 28th 2014. 9. 29  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     Galaxy Redshift Surveys and their Applications (Ho Seong Hwang)
+
+2.     The Environment of Barred Galaxies in the Local Universe (Bernardo
+Cervantes Sodi)
+
+
+
+===================================
+
+
+
+KIAS Dark Energy Science Group Meeting 27th 2014. 9. 15  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     Examining the Different Modes of Star Formation in the Distant
+Universe (Fadia Salmi)
+
+2.     Galaxy Formation in Halos at z~2 (Raphael Gobat)
+
+
+
+==================================
+
+KIAS Dark Energy Science Group Meeting 26th 2014. 8. 25  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     Galaxies at z=4~7: Insights from Cosmological Hydrodynamic
+Simulations (Edoardo Tescari, Melbourne)
+
+2.     Brightest Cluster Galaxies as Probes of Galaxy Formation (Paola
+Oliva, Swinburne & AAO)
+
+3.     Large Gpc Volume Simulations of Reionization (Hansik Kim, Melbourne)
+
+
+
+==================================
+
+KIAS Dark Energy Science Group Meeting 25th 2014. 8. 11  at 1:30 pm
+Monday / KIAS 1424
+
+[Presentations]
+
+1.     Footprints of the Dark Matter Halo (Arunima Banerjee, NCRA, India)
+
+2.     The Rates and Types of Halo Interactions (Benjamin L'Huillier, KIAS)
+
+3.     Summary of SDSS III and IV Meetings (Xiao-Dong Li, KIAS)
+
+
+
+====================================
+
+KIAS Dark Energy Science Group Meeting 24th 2014. 7. 21  at 2:00 pm
+Monday / APCTP seminar room
+
+
+
+[Presentations]
+
+1.     Primordial Power Spectrum from Planck (Dhiraj Hazra, APCTP)
+
+2.     Testing Isotropy in the Local Universe (Stephen Appleby, APCTP)
+
+3.     The Second and Third-Order Clustering Statistics in Redshift Space:
+Modeling and Applications (Cris Sabiu)
+
+4.     Horizon Run 4 Users' Projects (Juhan Kim, Benjamin L'Huillier,
+Sungwook Hong, Xiao-Dong Li, etc.)
+
+
+
+====================================
+
+KIAS Dark Energy Science Group Meeting 23rd 2014. 7. 7  at 1:30 pm
+Monday / KIAS seminar room (1424)
+
+[Presentations]
+
+1.     Progress Report: Galaxy Density Gradient Field from DR12v1 mocks and
+data (Xiao-Dong Li)
+
+2.     Calculation Methods of the Merger Time Scale for HR4 (Sungwook Hong)
+
+
+
+====================================
+
+KIAS Dark Energy Science Group Meeting 22nd 2014. 6. 23  at 1:00 pm
+Monday / KIAS seminar room (1423)
+
+[Presentations]
+
+1.     Topology of CMB Polarization (Pravabati Chingangbam, IIA, India)
+
+2.     Formation of Primordial Supermassive Black Holes (Jun-Hwan Choi,
+Austin, USA)
+
+
+
+====================================
+
+KIAS Dark Energy Science Group Meeting 21th 2014. 6. 9  at 1:00 pm
+Tuesday / KIAS seminar room (1423)
+
+[Presentations]
+
+1.     Alcock-Pacynski Effect in the Galaxy Density Gradient Field
+(Xiao-Dong Li)
+
+2.     Cosmological Probes of Screening Mechanisms in Modified Gravity
+(David F. Mota, Oslo)
+
+======================================
+
+KIAS Dark Energy Science Group Meeting 20th 2014. 5. 27  at 1:00 pm
+Tuesday / KIAS seminar room (1423)
+
+[Presentations]
+
+1.     Lyman-Alpha forest, massive neutrinos, and BOSS applications
+(Graziano Rossi, Sejong)
+
+2.     Evolution of simulated halo spin (Juhan Kim)
+
+
+
+===================================
+
+KIAS Dark Energy Science Group Meeting 19th 2014. 5. 12  at 1:00 pm
+Monday / KIAS seminar room (1424)
+
+[Presentations]
+
+1.     Environment Dependence of quasar distribution using SDSS (Hyunmi
+Song)
+
+2.     DR11v1 CMASS-North Masks: Description, Effects on the Gradient Field
+and Calibration (Xiao-Dong Li)
+
+
+
+[See our wiki page for this part from 13th to 18th meeting.]
+
+
+
+KIAS Dark Energy Science Group Meeting 12th 2014. 1. 27  at 1:00 pm
+Monday/KIAS seminar room (1424)
+
+[Presentations]
+
+1.     A Universal Method for Identification of Large-Scale Structures of
+the Universe (Changbom Park)
+
+2.     Primordial Spectrum and CMB (Dhiraj Hazra, APCTP)
+
+
+
+==================================================
+
+KIAS Dark Energy Science Group Meeting 11th 2013. 12. 23  at 1:30 pm
+Monday/KIAS seminar room (1424)
+
+[Presentations]
+
+1.     BOSS Projects on Quasars (Hyunmi Song)
+
+2.     The BOSS Projects of AP Tests and Beta-Skeleton: Proposals and Recent
+Progress (Xiao-Dong Li)
+
+3.     Studying Galaxy Interactions and Evolution Using N-body/SPH
+Simulations (Jeong Sun Hwang)
+
+
+
+==================================
+
+KIAS Dark Energy Science Group Meeting 10th 2013. 12. 9  at 1:30 pm
+Monday/KIAS seminar room (1424)
+
+[Presentations]
+
+1.     The Horizon Run 4 (Juhan Kim)
+
+2.     Large-scale Structure of the HectoMAP survey (Changbom Park)
+
+
+
+----------------------------------------------------------------------------
+
+KIAS Dark Energy Science Group Meeting 9th 2013. 11. 25 at 2pm
+Wednesday/KIAS seminar room (1424)
+
+[Presentations]
+
+1.     Genus Topology of the BOSS CMASS Sample (Yun-Young Choi, Kyunghee)
+
+2.     Anisotropic Clustering and Pairwise Velocities. (Cris Sabiu)
+
+3.     Sandage-Loeb test as a Probe of Dark Energy (Xiao-Dong Li)
+
+
+
+==================================
+
+KIAS Dark Energy Science Group Meeting 8th 2013. 11. 11 at 2pm
+Monday/KIAS seminar room (1424)
+
+[Presentations]
+
+1.     Fitting forms of LPT higher order solutions for general dark energy
+model. (Seokcheon Lee)
+
+2.     AP effects in Gradient Field: Confusing Results from HR3 (Xiao-Dong
+Li)
+
+3.     Making a mask file for Sloan DR7 quasars (Hyunmi Song)
+
+
+
+-----------------------------------
+
+KIAS Dark Energy Science Group Meeting 7th 2013. 10. 2 at 2pm
+Wednesday/KIAS seminar room (1423)
+
+[Presentations]
+
+1.       Anisotropy Clustering: Information content and constraints (Cris
+Sabiu)
+
+2.       Good Constraints on Omega_m and w from Density Gradient Field
+(Xiao-Dong Li)
+
+3.       GMT pre-proposals II (Changbom Park)
+
+
+
+-----------------------------------------
+
+KIAS Dark Energy Science Group Meeting 6th 2013. 9. 9 at 2pm Monday/KIAS
+seminar room (1424)
+
+[Presentations]
+
+1.       Halo-Galaxy Correspondence Model (Juhan Kim)
+
+2.       Chisq and Likelihood Distributions from Number Density Gradient
+Field (Xiao-Dong Li)
+
+3.       GMT pre-proposals I (Changbom Park)
+
+
+
+===========================================
+
+KIAS Dark Energy Science Group Meeting 5th 2013. 8. 26 at 2pm
+Monday/KIAS seminar room (1423)
+
+[Presentations]
+
+1. Review on Lagrangian Perturbation Theory 3: Applications of the
+Lagrangian Perturbation Theory (Seokcheon Lee)
+
+
+===========================================
+
+
+KIAS Dark Energy Science Group Meeting 4th 2013. 8. 12 at 2pm Monday/
+KIAS seminar room (1423)
+
+[Presentations]
+
+1. Review on Lagrangian Perturbation Theory 2: Comparison with other
+Perturbation Theories (Seokcheon Lee)
+
+2. AP Effect in Beta-Skeletons and Smoothed Density Gradient Field
+(Xiao-Dong Li)
+
+3. Review on the paper of 'Cross-correlation of SDSS DR7 Quasars and
+DR10 BOSS Galaxies:
+
+The weak luminosity dependence of quasar clustering at z~0.5' (Hyunmi Song)
+
+===========================================
+
+KIAS Dark Energy Science Group Meeting 3rd 2013. 7. 29 at 2pm Monday/
+KIAS seminar room (1423)
+
+[Presentations]
+
+1. Review on Lagrangian Perturbation Theory 1: Introduction to LTP
+(Seokcheon Lee)
+
+2. Proposals for the K-GMT White Paper (Changbom Park)
+
+===========================================
+
+KIAS Dark Energy Science Group Meeting 2nd 2013. 7. 15 at 3pm Monday/
+KIAS seminar room (1424)
+
+[Presentations]
+
+1. Sciences with wide and deep survey data II: Dark Matter Halo Survey (CB
+Park)
+
+2. SDSS-III BOSS: Data and Practicalities (Cris Sabiu)
+
+===========================================
+
+KIAS Dark Energy Survey Science Group Meeting 1st 2013. 7. 1 at 2pm
+Monday / KIAS seminar room (1424)
+
+
+KDES Science Group is a subgroup of the larger activity called the
+Survey Science Group in Korea. The group works on the theory,
+observation, and simulation of dark energy-related projects. The meeting
+of this group will be combined with the Survey Science Group Meeting,
+whenever it is held every
+2 or 3 months. There will be the 3rd Survey Science Group workshop at
+High-1 resort in Feb. 2014.
+
+
+[Presentations]
+
+1. Sciences with wide and deep survey data I: topology of LSS as a
+cosmic constant (CB Park)
+
+2. A review of BOSS and the Alcock-Paczynski effect via clustering 'shells'
+(Cris Sabiu)
+
+3. Applying the Alcock-Paczynski test to the large scale structure
+(Xiao-Dong Li)
+
+===========================================
+
+The SDSS3 survey is making its final progress
+and the data now became quite useful.
+At this point I think we should put our great effort on this data.
+This Friday I want us to gather together and talk about
+
+1.       what we know about the status of the SDSS3 survey and its data
+Release
+
+and also about
+
+2.       the sciences we are planning to work on with this data.
+
+===========================================

@@ -1,0 +1,7 @@
+# Ignore Gmail-related PDF files
+Gmail*.pdf
+*.pdf
+
+# Vim swap files
+*.swp
+*.swo
