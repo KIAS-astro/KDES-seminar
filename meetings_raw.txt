@@ -47,6 +47,35 @@ interpret tidal features in the LSST survey.
 
 
 =============================================
+<< KIAS Dark Energy Science Group Meeting 218th >>
+2026. 3. 31 at 14:30  Tuesday / *#1424* or Zoom  ( https://zoom.us/j/4316792441 )
+
+
+1. Model independent test of the FLRW metric and the curvature in light
+of DESI DR2 (Cléa Millard, Sejong Univ.)
+
+Abstract: We perform a data-driven test of the FLRW metric and the
+flatness of the Universe, independently of any Dark Energy model, and in
+light of the latest DESI DR2 results. We use Pantheon+ and DES Dovekie
+SNIa data to reconstruct the distance modulus, dimensionless comoving
+distance and Hubble parameter, using an iterative smoothing algorithm.
+Then, combining the various reconstructions with the recent BAO
+measurements from DESI DR2, we perform the Ok diagnostic, a litmus test
+of the FLRW metric and the flatness of the Universe. We obtain robust
+results that do not depend on Dark Energy models and test some of the
+underlying hypotheses of the concordance model. We find that when the
+reconstructed Ok diagnostic is consistent with the FLRW metric, then the
+median value of Ωk,0 over all reconstructions that provide an improved
+fit relative to the flat ΛCDM model is: Ωk,0med = 0.035+0.046−0.079 ±
+0.037 for the Pantheon+ & DESI DR2 data combination, Ωk,0med =
+0.092+0.055−0.132 ± 0.064 for the same data but with the Pantheon+ SNIa
+cut at redshift z = 1.13, which is the maximum redshift of the DES
+Dovekie data, and Ωk,0med = −0.101+0.088−0.024 ± 0.044 for DES Dovekie &
+DESI DR2. The first uncertainties correspond to the spread in Ωk,0 over
+all reconstructions, followed by the median 1σ error.
+
+
+=============================================
 << KIAS Dark Energy Science Group Meeting 217th >>
 2026. 3. 9 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.
 us/j/4316792441 )
