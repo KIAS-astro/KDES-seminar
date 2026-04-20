@@ -1,4 +1,52 @@
 =============================================
+<< KIAS Dark Energy Science Group Meeting 219th >>
+2026. 4. 20 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.us/j/4316792441 )
+
+
+1. Learning about galaxy mergers through tidal features in LSST:
+Characterizing extragalactic tidal features in cosmological simulations
+(Aman Khalid, Yonsei Univ.)
+
+Abstract: Λ-Cold Dark Matter cosmological simulations of the Universe
+predict that major (mass ratio > 1/4) and minor mergers (mass ratio < 1/4)
+both play a significant role in shaping the galaxies that populate our
+Universe today. Due to the long timescales of galaxy mergers, we must
+infer their occurrence and properties in observations through merger
+features, such as the tidal debris around a galaxy. Tidal features form
+from stars that have been pulled into specific orbits during mergers,
+creating low-surface-brightness structures around galaxies (e.g., streams,
+tails, and shells). The properties of the tidal feature can provide
+insights into the merger that created it. With the upcoming Legacy Survey
+of Space and Time (LSST) on the Rubin Observatory, we will have an
+unprecedented sample of these low-surface-brightness features, enabling
+us to use tidal features to test how mergers transform galaxies. To make
+a like-for-like comparison with LSST, we have produced a sample of
+idealized mock observations from four cosmological simulations: EAGLE,
+IllustrisTNG, Magneticum Pathfinder, and NewHorizon. Using different
+simulations, we probe the influence of subgrid physics models and
+simulation resolution on the occurrence and characteristics of tidal
+features. We have studied the properties of galaxies with and without
+tidal features in an observationally motivated manner and examined how
+the occurrence of tidal features around galaxies varies as a function of
+galaxy colour, stellar mass, group/cluster halo mass and distance from
+the group/cluster center in the velocity-radius phase space, therefore
+probing whether the occurrence of tidal features around galaxies reflects
+the trends regarding the occurrence of mergers as a function of galaxy
+stellar mass and environment. A natural continuation is to leverage the
+opportunity to directly connect mergers in simulated galaxies to the
+tidal features characterized in previous work. This will provide a
+valuable test, quantifying the extent to which the role of mergers in
+transforming galaxies varies across different simulations with varying
+subgrid physics prescriptions and resolutions. Furthermore, we aim to
+quantify the lifetimes of the visible tidal features and potentially
+probe the morphological properties of the progenitor galaxies through
+the photometric properties of tidal features, providing a framework to
+interpret tidal features in the LSST survey.
+
+2. Quintessence dark energy: sound speed and structure formation (Trupti Patil, KIAS)
+
+
+=============================================
 << KIAS Dark Energy Science Group Meeting 217th >>
 2026. 3. 9 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.
 us/j/4316792441 )
