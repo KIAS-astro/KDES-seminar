@@ -74,6 +74,8 @@ Dovekie data, and Ωk,0med = −0.101+0.088−0.024 ± 0.044 for DES Dovekie &
 DESI DR2. The first uncertainties correspond to the spread in Ωk,0 over
 all reconstructions, followed by the median 1σ error.
 
+2. Late-time Morphology of HR5 galaxies (Priya Goyal, KIAS)
+
 
 =============================================
 << KIAS Dark Energy Science Group Meeting 217th >>
@@ -83,8 +85,7 @@ us/j/4316792441 )
 
 1. Distributions of Morphology and Star Formation Activity in High-redshift
 Galaxies: A Comparative Analysis of JWST Observations and HR5
-Simulations (Jeong
-Hwan Lee, Seoul Nat'l Univ.)
+Simulations (Jeong Hwan Lee, Seoul Nat'l Univ.)
 
 Abstract: Recently, JWST enables detailed investigations of high-redshift
 galaxies with its unprecedented imaging sensitivity and spatial resolution.
