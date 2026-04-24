@@ -64,4 +64,11 @@ git add 20XX.html meetings_raw.txt
 git commit -m "Add NNNth meeting (YYYY-MM-DD)"
 ```
 
-Then copy updated files to the PHP server.
+Then deploy the year's file to the PHP server:
+
+```
+./deploy.sh 2026
+```
+
+This copies `YYYY.html` to `root@astro.kias.re.kr:/BACKUP3/www/html/KDES_seminar/`
+via `scp`. Requires SSH key auth to be set up (see the `KEY` variable in `deploy.sh`).

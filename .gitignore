@@ -5,3 +5,6 @@ Gmail*.pdf
 # Vim swap files
 *.swp
 *.swo
+
+# Claude Code local settings
+.claude/
