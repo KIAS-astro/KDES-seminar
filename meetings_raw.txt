@@ -1,4 +1,28 @@
 =============================================
+<< KIAS Dark Energy Science Group Meeting 220th >>
+2026. 5. 11 at 14:30  Monday / *Bldg 8 Room 8101* or Zoom  ( https://zoom.us/j/4316792441 )
+
+
+1. Harnessing the power of peculiar velocities for precise cosmology in
+the local Universe (Anthony Carr, KASI)
+
+Abstract: Peculiar velocities are an incredible cosmological tool in the
+nearby universe, and we can now take full advantage of them thanks to
+huge sample sizes afforded by ongoing and upcoming large-scale
+spectroscopic surveys. The structure of the galaxies we observe today,
+and how they move, was seeded in the early universe; their positions and
+peculiar velocities therefore trace the evolution from small density
+perturbations to the current cosmic web and tell us what universe is
+made of. As we continue to observe more peculiar velocity tracers, we
+can even search for evidence of modified gravity. I will demonstrate how
+we use peculiar velocity correlations to probe the growth of structure,
+fσ8, and also how large peculiar velocity surveys can be used to measure
+the expansion rate of the Universe, H0.
+
+2. TBD (Da Bi, KIAS)
+
+
+=============================================
 << KIAS Dark Energy Science Group Meeting 219th >>
 2026. 4. 20 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.us/j/4316792441 )
 
