@@ -2,6 +2,8 @@ span.title {
 	font-size:35pt;
 	font-family:"Helvetica","Arial","sans-serif";
 	color:#940E0E;
+	display:inline-block;
+	margin-bottom:14px;
 }
 span.texts {
 	font-size:11pt;
@@ -13,6 +15,22 @@ span.section {
 	font-family:"Helvetica","Arial","sans-serif";
 	font-weight:bold;
 	color:#940E0E;
+}
+.home-sep {
+	color:#940E0E;
+	margin:0 8px;
+}
+a.home-link:link, a.home-link:visited {
+	font-weight:bold;
+	color:#940E0E;
+	border:1px solid #940E0E;
+	padding:2px 8px;
+	border-radius:3px;
+	text-decoration:none;
+}
+a.home-link:hover {
+	background:#940E0E;
+	color:#ffffff;
 }
 ul.square {
 	list-style-type:square;
