@@ -25,8 +25,8 @@ Before editing, confirm:
 - Meeting date (the user often gives a talk without one).
 - For each speaker: title, institution. Use `TBD` for an unknown title only
   after the user confirms.
-- Watch name order — the user has corrected "Bi Da" → "Da Bi"; don't assume
-  Western given/family ordering for Chinese/Korean names.
+- Watch name order — don't assume Western given/family ordering for
+  Chinese/Korean names.
 
 ## Date formats
 
