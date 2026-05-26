@@ -13,8 +13,12 @@ REMOTE_DIR="/BACKUP3/www/html/KDES_seminar"
 # SSH normally auto-tries keys with standard names like ~/.ssh/id_rsa or
 # ~/.ssh/id_ed25519. This key has a custom filename, so we must tell scp
 # which one to use with the -i flag below; otherwise it will fall back to
-# asking for a password.
-KEY="$HOME/.ssh/id_ed25519-remote-ssh-gate"
+# asking for a password. The key file differs per host machine.
+case "$(uname -s)" in
+    Darwin) KEY="$HOME/.ssh/id_ed25519-remote-ssh-gate" ;;
+    Linux)  KEY="$HOME/.ssh/id_ed25519-kias-astro" ;;
+    *)      echo "error: unsupported OS $(uname -s)" >&2; exit 1 ;;
+esac
 
 if [[ $# -lt 1 ]]; then
     echo "usage: $0 YEAR | FILE [FILE ...]" >&2
