@@ -1,4 +1,36 @@
 =============================================
+<< KIAS Dark Energy Science Group Meeting 222nd >>
+2026. 6. 22 at 14:30  Monday / *#8406* or Zoom  ( https://zoom.us/j/4316792441 )
+
+
+1. Galaxy dynamics in the MaNGA survey: Exploring sensitivity to
+background cosmology (Gyeong Min Lee, Sejong Univ.)
+
+Abstract: Galaxy dynamics covers a broad range of acceleration,
+extending across and below the background de Sitter scale of
+acceleration a_dS=cH, where c is the velocity of light and H is the
+Hubble parameter of the background cosmology. Asymptotic behavior in
+the outskirt of galaxies is marked by flat rotation curves, quantified
+by the baryonic Tully-Fisher relation. Here, we exploit Mapping Nearby
+Galaxies at APO (MaNGA) survey to study the transition to anomalous
+galaxy dynamics, away from the expected dynamics based on the observed
+light and Newton's theory of gravitation. Following a selection of a
+homogeneous sample of spiral galaxies from MaNGA, we present a binned
+stacked rotation curve in the normalized plot of the ratio of radial
+acceleration a_N/alpha of versus xi=a_N/a_dS, where alpha is inferred
+from line-of-sight velocities and a_N derives from the Newtonian
+gravitation potential based on the distribution of baryonic matter. We
+show a transition scale a_dS to anomalous dynamics at xi=1 in a
+6-sigma departure form MUGS2 LCDM-galaxy models. This independently
+confirms the same previously observed in the Spitzer Photometric
+Accurate Rotation Curves (SPARC) catalog. We identify this coincidence
+with a finite sensitivity of inertial mass to background cosmology in
+weak gravitation below a_dS.
+
+2. Cusps, Cores, Codes and Black Holes (Boon Kiat Oh, KIAS)
+
+
+=============================================
 << KIAS Dark Energy Science Group Meeting 221st >>
 2026. 6. 1 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.us/j/4316792441 )
 
@@ -66,7 +98,8 @@ we use peculiar velocity correlations to probe the growth of structure,
 fσ8, and also how large peculiar velocity surveys can be used to measure
 the expansion rate of the Universe, H0.
 
-2. TBD (Da Bi, KIAS)
+2. Toward the Next-Generation High-Resolution Cosmological Simulation
+(Da Bi, KIAS)
 
 
 =============================================
@@ -1016,7 +1049,8 @@ Test within Quintessence Dark Energy models (Zahra Davari, KIAS)
 us/j/4316792441)
 
 
-1. Progress report (Jeonggyu Kim, KIAS)
+1. Control of Multiphase ISM and Star Formation by Stellar Feedback: A
+Modern Theoretical Perspective (Jeong-Gyu Kim, KIAS)
 
 
 
@@ -1089,8 +1123,7 @@ us/j/4316792441)
 
 
 1. Control of star formation by UV radiation feedback from massive
-stars (Jeong-Gyu
-Kim, NAOJ)
+stars (Jeong-Gyu Kim, NAOJ)
 Abstract:
 UV photons produced by young massive stars are the major source of heating
 and ionization in the interstellar medium (ISM). H II regions created by
