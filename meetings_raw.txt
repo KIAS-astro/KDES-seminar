@@ -1,4 +1,42 @@
 =============================================
+<< KIAS Dark Energy Science Group Meeting 223rd >>
+2026. 7. 6 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.us/j/4316792441 )
+
+
+1. Probing 3D B-fields in Multi-scale Galactic Ecosystem (Bao Truong,
+KASI/UST)
+
+Abstract: Magnetic fields (B-fields) are ubiquitous in the Universe
+and are thought to play important roles in various astrophysical
+processes in the interstellar medium (ISM) and star-forming regions.
+There are various observational techniques to measure B-field strength
+and morphology (e.g., Zeeman splitting, Faraday rotation, starlight
+and thermal dust polarization, synchrotron polarization, Velocity
+Gradient Technique). The development of observational instrumentation
+enhances the ability to measure magnetic fields in the Universe across
+multiple scales. However, these techniques can only trace one
+preferred direction of B-fields in the three-dimensional (3D) space
+(along the line-of-sight or in the plane-of-sky), raising the
+challenges of measuring 3D B-fields in the Universe.
+
+In this talk, I will present an innovative technique of probing 3D
+B-fields using dust polarization degree combined with modern grain
+alignment physics based on Radiative Torque (RAT) originally developed
+by Lazarian & Hoang (2007). I will present the implications of the new
+technique to constrain 3D B-fields in multiple scales: from the
+large-scale Local Bubble in our Solar neighborhood to small-scale
+star-forming regions as molecular clouds, filaments and dense cores.
+The measurement of 3D magnetic fields broadens our understanding of
+ISM and star-formation processes in the magnetized medium. I will
+present the possibility of studying 3D B-fields and dust physics
+through next-generation polarimetric instruments (PASIPHAE, SKA,
+PRIMA, AtLAST).
+
+2. The link between the spin of galaxies and their initial conditions
+(Jie Li, KIAS)
+
+
+=============================================
 << KIAS Dark Energy Science Group Meeting 222nd >>
 2026. 6. 22 at 14:30  Monday / *#8406* or Zoom  ( https://zoom.us/j/4316792441 )
 
