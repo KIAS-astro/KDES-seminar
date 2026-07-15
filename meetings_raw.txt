@@ -1,4 +1,16 @@
 =============================================
+<< KIAS Dark Energy Science Group Meeting 224th >>
+2026. 7. 20 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.us/j/4316792441 )
+
+
+1. Understanding Dynamical Dark Energy in the DESI-era (Kushal Lodha, KASI)
+
+Abstract: I will discuss our results from the Dark Energy supporting paper accompanying the DESI DR2 BAO release. Using a variety of parametric and non-parametric methods, we find that extending the standard $\Lambda$CDM model with a two-parameter $w(z)$ description is sufficient to capture the main trends in the current data. We further examine broad classes of dark energy models with distinct dynamics, including quintessence scenarios satisfying $w \geq -1$, to explore what underlying physics could explain these deviations. Current observations show a clear preference for models that exhibit phantom crossing. While alternatives without this feature are disfavored, they are not yet decisively excluded. Our analysis confirms that the evidence for dynamical dark energy, particularly at low redshift ($z \lesssim 0.3$), is robust and stable under different modeling choices. I will conclude by discussing two ongoing lines of work: one that connects these phenomenological hints to the underlying theory, and another that sheds light on the origin of the observed degeneracy direction in the $w_0w_a$ plane.
+
+2. Searching for improved topological standard rulers (Stephen Appleby, KIAS)
+
+
+=============================================
 << KIAS Dark Energy Science Group Meeting 223rd >>
 2026. 7. 6 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.us/j/4316792441 )
 
