@@ -72,3 +72,9 @@ Then deploy the year's file to the PHP server:
 
 This copies `YYYY.html` to `root@astro.kias.re.kr:/BACKUP3/www/html/KDES_seminar/`
 via `scp`. Requires SSH key auth to be set up (see the `KEY` variable in `deploy.sh`).
+
+### 5. Announce to the mailing list
+
+Draft the announcement from the "Meeting announcement" template in
+`email_templates.md`, filling in the meeting details and abstracts. Keep the
+working draft in `email-draft.md` (not committed). Send it to the mailing list.

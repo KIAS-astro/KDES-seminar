@@ -27,6 +27,14 @@ Before editing, confirm:
   after the user confirms.
 - Watch name order — don't assume Western given/family ordering for
   Chinese/Korean names.
+- Speaker pronoun for the announcement email. Do not infer it from the name;
+  ask, or drop the pronoun ("X will give a talk titled: ...").
+
+## Announcement drafts stay untracked
+
+The per-meeting announcement draft (`email-draft.md`, and the older `a.txt`)
+is not committed. Write or update it, but leave it out of `git add` — only
+the year HTML and `meetings_raw.txt` go into the meeting commit.
 
 ## Date formats
 
