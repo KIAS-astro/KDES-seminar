@@ -75,11 +75,13 @@ Subject: `KDESci Group Meeting ({{N}}th) – {{Month Day}} ({{Weekday abbrev, e.
 >
 > The {{N}}th KDESci group meeting will take place on {{Month Day}} ({{Weekday}}) at {{HH:MM}} in {{Room, e.g. Room #1424}}.
 >
-> Our speaker will be {{Speaker 1 Full Name}} from {{Speaker 1 Affiliation}}.
+> Our speakers will be {{Speaker 1 Full Name}} from {{Speaker 1 Affiliation}} and {{Speaker 2 Full Name}} from {{Speaker 2 Affiliation}}.
+> *(For a KIAS speaker, write "our own {{Name}}" instead of "{{Name}} from {{Affiliation}}". For a single speaker: "Our speaker will be ...".)*
 >
 > {{Speaker 1 First Name}} will present {{his/her/their}} research titled: {{Talk 1 Title}}
+> *(If the speaker's pronoun is unknown, drop it: "{{First Name}} will give a talk titled: ...".)*
 >
-> After {{Speaker 1 First Name}}'s talk, {{Speaker 2 Title and Full Name}} ({{Speaker 2 Affiliation}}) will present {{his/her/their}} research titled: {{Talk 2 Title}}
+> After {{Speaker 1 First Name}}'s talk, {{Speaker 2 First Name}} will give a talk titled: {{Talk 2 Title}}
 > *(If Speaker 2 has no title yet, replace the "titled: ..." clause with "research progress".)*
 >
 > Online participants may join the meeting via Zoom ({{Zoom URL}}).
@@ -100,8 +102,8 @@ Subject: `KDESci Group Meeting ({{N}}th) – {{Month Day}} ({{Weekday abbrev, e.
 >
 > I look forward to seeing many of you there.
 >
-> Cheers,
-> {{Your First Name}}
+> Best wishes,
+> {{Your Name}}
 
 ---
 
