@@ -3,6 +3,9 @@
 
 set -euo pipefail
 
+DIR="$(dirname "$0")"
+SITE="${DIR}/site"
+
 usage() {
     cat <<'EOF'
 Deploy file(s) from site/ to the KIAS web server.
@@ -10,6 +13,7 @@ Deploy file(s) from site/ to the KIAS web server.
 Usage:
   ./deploy.sh YEAR             # deploys site/YEAR.html
   ./deploy.sh FILE [FILE ...]  # deploys named file(s) from site/
+  ./deploy.sh -a | --all       # deploys every file in site/
   ./deploy.sh -h | --help      # show this help
 
 Requires SSH key authentication (run once: ssh-copy-id root@astro.kias.re.kr).
@@ -18,6 +22,13 @@ EOF
 
 case "${1-}" in
     -h|--help) usage; exit 0 ;;
+    -a|--all)
+        FILES=()
+        for f in "$SITE"/*; do
+            [[ -f "$f" ]] && FILES+=("$(basename "$f")")
+        done
+        set -- ${FILES[@]+"${FILES[@]}"}
+        ;;
 esac
 
 HOST="astro.kias.re.kr"
@@ -37,9 +48,6 @@ if [[ $# -lt 1 ]]; then
     usage >&2
     exit 1
 fi
-
-DIR="$(dirname "$0")"
-SITE="${DIR}/site"
 
 for arg in "$@"; do
     if [[ "$arg" =~ ^[0-9]{4}$ ]]; then
