@@ -8,6 +8,7 @@ import re
 import os
 
 BASE = os.path.dirname(os.path.abspath(__file__))
+SITE = os.path.join(BASE, "site")
 
 # --- 1. Parse abstracts ---
 
@@ -82,7 +83,7 @@ YEAR_FILES = [str(y) + ".html" for y in range(2013, 2027)]
 total_added = 0
 
 for fname in YEAR_FILES:
-    fpath = os.path.join(BASE, fname)
+    fpath = os.path.join(SITE, fname)
     if not os.path.exists(fpath):
         continue
 

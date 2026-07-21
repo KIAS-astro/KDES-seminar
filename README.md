@@ -2,21 +2,26 @@
 
 ## Structure
 
-- `index.html` — frameset (menu + content)
-- `menu.html` — top navigation bar
-- `main.php` — includes all year HTML files; also has the "Expand All Abstracts" button
-- `20XX.html` — one file per year, lists meetings by date with talk titles, speakers, and abstracts
-- `style.css` — shared styles including abstract display
+Files served to the web server live in `site/`; tooling and source stay at the
+repo root.
+
+- `site/index.html` — frameset (menu + content)
+- `site/menu.html` — top navigation bar
+- `site/main.php` — includes all year HTML files; also has the "Expand All Abstracts" button
+- `site/20XX.html` — one file per year, lists meetings by date with talk titles, speakers, and abstracts
+- `site/style.css` — shared styles including abstract display
+- `meetings_raw.txt` — abstract source (parsed by `add_abstracts.py`, not served)
+- `add_abstracts.py`, `deploy.sh` — tooling
 
 Requires a PHP server to run. To preview locally:
 ```
-php -S localhost:8000
+php -S localhost:8000 -t site
 ```
 Then open `http://localhost:8000`.
 
 ## Adding a New Meeting
 
-### 1. Update the year HTML file (e.g. `2026.html`)
+### 1. Update the year HTML file (e.g. `site/2026.html`)
 
 Add a new section at the top of the file (before the previous entry), following this template:
 
@@ -60,7 +65,7 @@ This will inject `<details>/<summary>` blocks for any talks that now have a matc
 ### 4. Commit and deploy
 
 ```
-git add 20XX.html meetings_raw.txt
+git add site/20XX.html meetings_raw.txt
 git commit -m "Add NNNth meeting (YYYY-MM-DD)"
 ```
 

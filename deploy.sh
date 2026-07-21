@@ -26,12 +26,13 @@ if [[ $# -lt 1 ]]; then
 fi
 
 DIR="$(dirname "$0")"
+SITE="${DIR}/site"
 
 for arg in "$@"; do
     if [[ "$arg" =~ ^[0-9]{4}$ ]]; then
-        SRC="${DIR}/${arg}.html"
+        SRC="${SITE}/${arg}.html"
     else
-        SRC="${DIR}/${arg}"
+        SRC="${SITE}/${arg}"
     fi
     if [[ ! -f "$SRC" ]]; then
         echo "error: $SRC not found" >&2

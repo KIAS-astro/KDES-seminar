@@ -11,12 +11,15 @@ following it — it adds one for every `<li><b>...</b>` whose title matches an
 abstract. Running it a second time (or running it after a year file already
 has abstracts) adds another copy of every matching abstract.
 
+Served HTML/CSS/PHP live in `site/`; `add_abstracts.py`, `deploy.sh`, and
+`meetings_raw.txt` stay at the repo root.
+
 When adding a new meeting:
-- Edit `meetings_raw.txt` and the year HTML file by hand for the new entries
-  only.
+- Edit `meetings_raw.txt` and the year HTML file (`site/20XX.html`) by hand for
+  the new entries only.
 - If you run `add_abstracts.py`, diff the year file afterward and remove any
   duplicate `<details>` it created on previously-injected entries.
-- Safer alternative: paste the `<details>` block manually into the year HTML
+- Safer alternative: paste the `<details>` block manually into `site/20XX.html`
   and skip the script.
 
 ## Asking the user for missing info
