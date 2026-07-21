@@ -72,10 +72,13 @@ git commit -m "Add NNNth meeting (YYYY-MM-DD)"
 Then deploy the year's file to the PHP server:
 
 ```
-./deploy.sh 2026
+./deploy.sh 2026            # deploys site/2026.html
+./deploy.sh menu.html       # deploys a named file from site/
+./deploy.sh -a              # deploys every file in site/
+./deploy.sh -h              # usage
 ```
 
-This copies `YYYY.html` to `root@astro.kias.re.kr:/BACKUP3/www/html/KDES_seminar/`
+This copies each file from `site/` to `root@astro.kias.re.kr:/BACKUP3/www/html/KDES_seminar/`
 via `scp`. Requires SSH key auth to be set up (see the `KEY` variable in `deploy.sh`).
 
 ### 5. Announce to the mailing list
