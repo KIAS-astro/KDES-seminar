@@ -32,9 +32,8 @@ Before editing, confirm:
 
 ## Announcement drafts stay untracked
 
-The per-meeting announcement draft (`email-draft.md`, and the older `a.txt`)
-is not committed. Write or update it, but leave it out of `git add` — only
-the year HTML and `meetings_raw.txt` go into the meeting commit.
+Per-meeting announcement drafts live in `drafts/email-draft-NNNth.md` and are
+committed along with the meeting.
 
 ## Date formats
 

@@ -77,4 +77,5 @@ via `scp`. Requires SSH key auth to be set up (see the `KEY` variable in `deploy
 
 Draft the announcement from the "Meeting announcement" template in
 `email_templates.md`, filling in the meeting details and abstracts. Keep the
-working draft in `email-draft.md` (not committed). Send it to the mailing list.
+working draft in `drafts/email-draft-NNNth.md` and commit it. Send it to the
+mailing list.
