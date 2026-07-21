@@ -1,11 +1,24 @@
 #!/usr/bin/env bash
-# Deploy file(s) to the KIAS web server.
-# Usage:
-#   ./deploy.sh YEAR             # deploys YEAR.html
-#   ./deploy.sh FILE [FILE ...]  # deploys arbitrary file(s) from this dir
-# Requires SSH key authentication (run once: ssh-copy-id root@astro.kias.re.kr).
+# Deploy file(s) from site/ to the KIAS web server.
 
 set -euo pipefail
+
+usage() {
+    cat <<'EOF'
+Deploy file(s) from site/ to the KIAS web server.
+
+Usage:
+  ./deploy.sh YEAR             # deploys site/YEAR.html
+  ./deploy.sh FILE [FILE ...]  # deploys named file(s) from site/
+  ./deploy.sh -h | --help      # show this help
+
+Requires SSH key authentication (run once: ssh-copy-id root@astro.kias.re.kr).
+EOF
+}
+
+case "${1-}" in
+    -h|--help) usage; exit 0 ;;
+esac
 
 HOST="astro.kias.re.kr"
 USER="root"
@@ -21,7 +34,7 @@ case "$(uname -s)" in
 esac
 
 if [[ $# -lt 1 ]]; then
-    echo "usage: $0 YEAR | FILE [FILE ...]" >&2
+    usage >&2
     exit 1
 fi
 
