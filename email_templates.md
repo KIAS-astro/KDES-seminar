@@ -90,7 +90,11 @@ Subject: `KDESci Group Meeting ({{N}}th) – {{Month Day}} ({{Weekday abbrev, e.
 > Speaker: {{Speaker 1 Full Name}}, {{Speaker 1 Affiliation}}
 > Abstract: {{Talk 1 Abstract}}
 >
-> {{Repeat Title/Speaker/Abstract block for additional talks if abstracts are available.}}
+> Title: {{Talk 2 Title}}
+> Speaker: {{Speaker 2 Full Name}}, {{Speaker 2 Affiliation}}
+> Abstract: {{Talk 2 Abstract}}
+>
+> *(Repeat the block for every talk. Include Title and Speaker even when no abstract has been sent, and drop only the Abstract line in that case.)*
 >
 > ------
 >
