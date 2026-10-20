@@ -1,4 +1,16 @@
 =============================================
+<< KIAS Dark Energy Science Group Meeting 228th >>
+2026. 10. 26 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.us/j/4316792441 )
+
+
+1. The CatWISE2020 Quasar Dipole: A Reassessment of the Cosmic Dipole Anomaly (Masroor Bashir, IIAP)
+
+Abstract: The Ellis–Baldwin test probes the cosmological principle by comparing the kinematic cosmic microwave background dipole with the Doppler-driven dipole in the number counts of extragalactic radio sources. Recent analysis of the CatWISE2020 quasar catalog has reported a number-count dipole amplitude exceeding the kinematic expectation at 4.9σ significance. We present a comprehensive reassessment of this test using the same dataset, incorporating major sources of uncertainty in the statistical inference. We employ a simulation framework based on the FLASK package, using lognormal realizations of the large-scale structure, the quasar clustering bias, the survey's radial selection function, and its exact sky coverage. Our simulations account for the kinematic dipole, the intrinsic clustering dipole, the shot noise, and the survey geometry effects. The analysis yields a revised significance of 3.63σ in the absence of a clustering dipole and 3.44σ with a randomly oriented clustering dipole. When the clustering dipole is aligned with the kinematic dipole, the significance decreases further to 3.27σ. Although the anomaly is reduced, it cannot be explained solely by the clustering dipole or mode coupling from the survey mask. We further assess the dipole measurement robustness by fitting models with successively higher-order multipoles up to ℓ = 4. Partial sky coverage induces mode coupling, shifting the dipole estimate to higher values when the octopole is included and inflating its variance as additional modes are incorporated, reflected in the increasing condition number of the estimator. This behavior highlights a bias–variance tradeoff inherent in multipole fitting on partial-sky data.
+
+2. Cosmic Acceleration: The Role of Geometry and Light Propagation (Zahra Davari, KIAS)
+
+
+=============================================
 << KIAS Dark Energy Science Group Meeting 227th >>
 2026. 10. 12 at 14:30  Monday / *#1424* or Zoom  ( https://zoom.us/j/4316792441 )
 
